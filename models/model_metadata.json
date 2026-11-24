@@ -1,0 +1,32 @@
+{
+  "model_type": "Self_Trained_TFIDF_LogisticRegression",
+  "optimal_threshold": 0.85,
+  "best_iteration": 1,
+  "best_val_macro_f1": 0.37611205405849873,
+  "final_val_accuracy": 0.386,
+  "seed_training_samples": 3000,
+  "pseudo_labeled_samples": 14400,
+  "total_training_samples": 17400,
+  "pseudo_labels_class_distribution": {
+    "negative": 4800,
+    "neutral": 4800,
+    "positive": 4800
+  },
+  "vectorizer_config": {
+    "word_ngram_range": [
+      1,
+      2
+    ],
+    "word_max_features": 12000,
+    "char_ngram_range": [
+      3,
+      5
+    ],
+    "char_max_features": 18000
+  },
+  "classifier_config": {
+    "C": 1.0,
+    "max_iter": 1000,
+    "solver": "lbfgs"
+  }
+}

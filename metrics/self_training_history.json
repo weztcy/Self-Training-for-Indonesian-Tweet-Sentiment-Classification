@@ -1,0 +1,150 @@
+[
+  {
+    "iteration": 1,
+    "train_size": 3000,
+    "val_accuracy": 0.404,
+    "val_macro_f1": 0.37611205405849873,
+    "val_weighted_f1": 0.42238313445529757,
+    "per_class": {
+      "positive": {
+        "precision": 0.37272727272727274,
+        "recall": 0.803921568627451,
+        "f1-score": 0.5093167701863354,
+        "support": 102.0
+      },
+      "negative": {
+        "precision": 0.11904761904761904,
+        "recall": 0.7142857142857143,
+        "f1-score": 0.20408163265306123,
+        "support": 28.0
+      },
+      "neutral": {
+        "precision": 0.8928571428571429,
+        "recall": 0.2702702702702703,
+        "f1-score": 0.4149377593360996,
+        "support": 370.0
+      }
+    },
+    "total_confident": 14753,
+    "accepted_count": 3600,
+    "rejected_count": 135247,
+    "accepted_by_class": {
+      "negative": 1200,
+      "neutral": 1200,
+      "positive": 1200
+    },
+    "confidence_mean": 0.9006714696857742,
+    "confidence_median": 0.8958362616647193
+  },
+  {
+    "iteration": 2,
+    "train_size": 6600,
+    "val_accuracy": 0.404,
+    "val_macro_f1": 0.37376116430458,
+    "val_weighted_f1": 0.4237675676513253,
+    "per_class": {
+      "positive": {
+        "precision": 0.36936936936936937,
+        "recall": 0.803921568627451,
+        "f1-score": 0.5061728395061729,
+        "support": 102.0
+      },
+      "negative": {
+        "precision": 0.11515151515151516,
+        "recall": 0.6785714285714286,
+        "f1-score": 0.19689119170984457,
+        "support": 28.0
+      },
+      "neutral": {
+        "precision": 0.8938053097345132,
+        "recall": 0.27297297297297296,
+        "f1-score": 0.41821946169772256,
+        "support": 370.0
+      }
+    },
+    "total_confident": 20990,
+    "accepted_count": 3600,
+    "rejected_count": 125410,
+    "accepted_by_class": {
+      "negative": 1200,
+      "neutral": 1200,
+      "positive": 1200
+    },
+    "confidence_mean": 0.9041113159565296,
+    "confidence_median": 0.9018099421892143
+  },
+  {
+    "iteration": 3,
+    "train_size": 10200,
+    "val_accuracy": 0.398,
+    "val_macro_f1": 0.36927350427350425,
+    "val_weighted_f1": 0.41602102564102567,
+    "per_class": {
+      "positive": {
+        "precision": 0.36771300448430494,
+        "recall": 0.803921568627451,
+        "f1-score": 0.5046153846153846,
+        "support": 102.0
+      },
+      "negative": {
+        "precision": 0.11377245508982035,
+        "recall": 0.6785714285714286,
+        "f1-score": 0.19487179487179487,
+        "support": 28.0
+      },
+      "neutral": {
+        "precision": 0.8909090909090909,
+        "recall": 0.2648648648648649,
+        "f1-score": 0.4083333333333333,
+        "support": 370.0
+      }
+    },
+    "total_confident": 25791,
+    "accepted_count": 3600,
+    "rejected_count": 117009,
+    "accepted_by_class": {
+      "negative": 1200,
+      "neutral": 1200,
+      "positive": 1200
+    },
+    "confidence_mean": 0.9091996367003153,
+    "confidence_median": 0.9088870843222999
+  },
+  {
+    "iteration": 4,
+    "train_size": 13800,
+    "val_accuracy": 0.396,
+    "val_macro_f1": 0.36801284474322876,
+    "val_weighted_f1": 0.4122784111047915,
+    "per_class": {
+      "positive": {
+        "precision": 0.3688888888888889,
+        "recall": 0.8137254901960784,
+        "f1-score": 0.5076452599388379,
+        "support": 102.0
+      },
+      "negative": {
+        "precision": 0.1130952380952381,
+        "recall": 0.6785714285714286,
+        "f1-score": 0.19387755102040816,
+        "support": 28.0
+      },
+      "neutral": {
+        "precision": 0.897196261682243,
+        "recall": 0.2594594594594595,
+        "f1-score": 0.4025157232704403,
+        "support": 370.0
+      }
+    },
+    "total_confident": 27829,
+    "accepted_count": 3600,
+    "rejected_count": 111371,
+    "accepted_by_class": {
+      "negative": 1200,
+      "neutral": 1200,
+      "positive": 1200
+    },
+    "confidence_mean": 0.9134742439261633,
+    "confidence_median": 0.9131608740477523
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "random_state": 42,
+  "total_unique_deduplicated": 439132,
+  "validation_records": 500,
+  "test_records": 500,
+  "train_seed_records": 3000,
+  "unlabeled_pool_records": 435132,
+  "seed_class_distribution": {
+    "positive": 1000,
+    "negative": 1000,
+    "neutral": 1000
+  },
+  "val_class_distribution": {
+    "neutral": 370,
+    "positive": 102,
+    "negative": 28
+  },
+  "test_class_distribution": {
+    "neutral": 394,
+    "positive": 82,
+    "negative": 24
+  },
+  "val_cohen_kappa": 0.09977028621096418,
+  "test_cohen_kappa": 0.09374258901649901,
+  "seed_record_ids_sample": [
+    "tweet_435268",
+    "tweet_180278",
+    "tweet_112803",
+    "tweet_256302",
+    "tweet_199456",
+    "tweet_401838",
+    "tweet_286779",
+    "tweet_278570",
+    "tweet_335039",
+    "tweet_051986"
+  ],
+  "val_record_ids_sample": [
+    "tweet_026930",
+    "tweet_169328",
+    "tweet_249652",
+    "tweet_452663",
+    "tweet_344642",
+    "tweet_403193",
+    "tweet_278223",
+    "tweet_267410",
+    "tweet_126531",
+    "tweet_207886"
+  ],
+  "test_record_ids_sample": [
+    "tweet_081722",
+    "tweet_310999",
+    "tweet_176557",
+    "tweet_372832",
+    "tweet_405001",
+    "tweet_200294",
+    "tweet_417408",
+    "tweet_362196",
+    "tweet_049273",
+    "tweet_049735"
+  ]
+}

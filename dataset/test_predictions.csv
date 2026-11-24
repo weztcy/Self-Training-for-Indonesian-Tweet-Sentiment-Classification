@@ -1,0 +1,501 @@
+record_id,text,true_label,baseline_pred,baseline_conf,final_pred,final_conf,is_correct_baseline,is_correct_final,is_correct,pred_label,error_category
+tweet_081722,buat kita jadi lebih matang dan boleh berdikari dengan baik,neutral,positive,0.7240445954673004,positive,0.8721805551772127,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_310999,aku tau aku salah dan rasanya tidak bisa konsentrasi buat kerjaa kepikiran muluu apa yang harus aku lakuin minta m,negative,negative,0.6731012715022617,negative,0.682764895689735,True,True,True,negative,Correct
+tweet_176557,emang kelakuan y,neutral,neutral,0.6238862532393957,neutral,0.6571665607495231,True,True,True,neutral,Correct
+tweet_372832,ttp semangat dalam keadaan apapun ya teens kikies,positive,positive,0.8784100528157681,positive,0.9295655442267302,True,True,True,positive,Correct
+tweet_405001,kalah menang sudah biasa masalah kecewa itu resiko suporter sepakbola,negative,negative,0.7808556440739354,negative,0.8158429942793473,True,True,True,negative,Correct
+tweet_200294,well hell i sexual creatures kita satu rumah sekarang so let s get closer gimana kalau kita mulai dengan mendengarka,neutral,positive,0.4379873107928438,positive,0.44064546179663955,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_417408,asalkan kau bahagia saja da gin,positive,positive,0.7973719690335763,positive,0.8660779393143723,True,True,True,positive,Correct
+tweet_362196,semangat sayangku,positive,positive,0.8362260742953079,positive,0.841403176277788,True,True,True,positive,Correct
+tweet_049273,official 181026 dibs law of the jungle ep 338 cut w english sub upload by kocowa tv lucas pergi k,neutral,neutral,0.8829283431172307,neutral,0.9180691142537065,True,True,True,neutral,Correct
+tweet_049735,bible bilang begini bahkan sehelai rambutmu pun tidak akan jatuh tanpa seizin bapa mu di sorga jadi kejatuhan,neutral,negative,0.6360063613100578,negative,0.759985938411886,False,False,False,negative,Negation / Ambiguity Error
+tweet_229171,genius,neutral,neutral,0.6516487024167452,neutral,0.688431881737176,True,True,True,neutral,Correct
+tweet_157180,haih pasal tetek pun nk gaduh jagalah tetek masing masing lol wth yall,neutral,negative,0.5231812546049208,negative,0.605428233788166,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_050835,ribkarikeman bangga dg wadahkom silahkan pergi dibumiku terlarang,positive,neutral,0.6720421261426451,neutral,0.4912959741608483,False,False,False,neutral,Polar False Neutral (Under-triggering)
+tweet_281297,om mba yang kemaren curhat harus liat ini deh,neutral,positive,0.44280569096499817,positive,0.5807645399833034,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_357411,nilai cinta yang tulus tak kan kering di musim panas tak kan luluh di musim hujuan tak kan beku di musim dingin dy,positive,negative,0.4938342885174696,negative,0.5637933488544326,False,False,False,negative,Negation Misinterpretation
+tweet_294325,sikap sifat orang bisa begitu cepat berubah karena 1 kesalahan,neutral,negative,0.5190059336869915,negative,0.6379826877271486,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_303587,forum mahasiswa toraja kota makassar atau format makassar menggelar aksi demonstrasi di bawah flyover elasa 10,neutral,positive,0.5195412588364593,positive,0.47643808043977687,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_394096,hanya dengan mandi di bawah pancuran air saja orang bisa menyingkirkan rasa sedih dan bersalah peneliti dari universit,negative,negative,0.8648323939417513,negative,0.9465388914085348,True,True,True,negative,Correct
+tweet_260596,paling suka dengan hujan disepertiga malam gini,positive,positive,0.3680848524462466,neutral,0.4380589951943004,True,False,False,neutral,Polar False Neutral (Under-triggering)
+tweet_302760,mu sudah ikutan belum besok diumumin,neutral,neutral,0.5801966661311512,neutral,0.6382753857530843,True,True,True,neutral,Correct
+tweet_028712,tabrakan antar galaksi adalah hal yang biasa yang merupakan salah satu proses evolusi galaksi 300 juta tahun cahaya dari bu,neutral,negative,0.6871712224457807,negative,0.8373301925631494,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_442789,tidak cuma artis muda loh nanti malem bakal ada si dul dan atun nih alias mas rano karno sama kauti karno yang bakal,neutral,negative,0.7364165247793525,negative,0.674592255998026,False,False,False,negative,Negation / Ambiguity Error
+tweet_263360,on the few occasions that has happened it has been obvious due to showi,neutral,neutral,0.8725925070937481,neutral,0.9176872522816201,True,True,True,neutral,Correct
+tweet_074596,apa gue on di pa saja ya huhu males gue pake ava sendiri disini,negative,negative,0.8261621190554235,negative,0.9547348905493717,True,True,True,negative,Correct
+tweet_223891,bagi saya rugi lagi ada menteri yang asyik salahkan kerajaan lalu tapi terus tidak membuat apa2 alternatif untuk se,negative,negative,0.6739304999911493,negative,0.8460024401370865,True,True,True,negative,Correct
+tweet_451243,disini yuk join,neutral,neutral,0.821873742667941,neutral,0.9832291899710534,True,True,True,neutral,Correct
+tweet_113733,ini mau aku peluk apa gimana,neutral,neutral,0.6465482018293596,neutral,0.569615984023423,True,True,True,neutral,Correct
+tweet_128545,whatsapp bukan tempat ideal untuk orang orang yang suka online tapi malas untuk balas chat,positive,negative,0.6477254178549318,negative,0.7344307318063241,False,False,False,negative,Negation Misinterpretation
+tweet_056949,disini 13,neutral,neutral,0.9372099886719354,neutral,0.9986460401528767,True,True,True,neutral,Correct
+tweet_090561,di bandung fc weh ronggo mah wkwk,positive,neutral,0.49029070113037987,positive,0.5380632478038389,False,True,True,positive,Correct
+tweet_408887,gpp mrk mengajarkan biar miskin kita bisa bahagia,neutral,positive,0.8969300934033089,positive,0.897685840218361,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_096973,indo dormir agora com a esperan a de acordar s umas 16,neutral,neutral,0.5206604762262392,neutral,0.9511269014298113,True,True,True,neutral,Correct
+tweet_120411,i am the one yang tak suka bila orang suka remind jangan lambat berkali kali tapi diri sendiri yang lambat pada ha,positive,negative,0.7520836666236781,negative,0.969704570942204,False,False,False,negative,Negation Misinterpretation
+tweet_311119,felicitas t dari gerindra supaya jangan di tanggal 17 desember karena fraksi kami mem,neutral,negative,0.7718387481902244,negative,0.8319470383888525,False,False,False,negative,Negation / Ambiguity Error
+tweet_366682,remember biko,neutral,neutral,0.551765999005077,neutral,0.5578298742680436,True,True,True,neutral,Correct
+tweet_376988,sekarang dah punya dede bangun pagi terus lelah tapi harus semangat,positive,positive,0.6629660034858381,positive,0.7269521450697829,True,True,True,positive,Correct
+tweet_117000,tolak juga tuhh bank syariah,neutral,neutral,0.4101887484341742,neutral,0.39683601948221914,True,True,True,neutral,Correct
+tweet_103591,indonesia bagus kuningan jawa barat lewat,neutral,positive,0.7113317248394364,positive,0.7285047283770821,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_077090,2339hrs kerja penyelenggaraan di kamu 292 6 kamu 292 4 dari bangi ke putra mahkota lorong kiri ditutup trafik terkawa,neutral,positive,0.46247103670744233,positive,0.5849630090981095,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_009409,mari menjadi berkat bagi orang orang di sekitar kita,neutral,positive,0.6652648372166324,positive,0.6667490030767383,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_110396,emas emas gimana gitu,neutral,neutral,0.5939258357770425,neutral,0.6356829179712242,True,True,True,neutral,Correct
+tweet_239561,cari tahu apa yang benar benar anda sukai dan kemudian lakukan sebagai cara untuk menemukan kehidupan yang baik,neutral,positive,0.8110877876636694,positive,0.9093944453148286,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_398910,tuh buat semuanya ye jangan mao tuh sampe kemakan omongan yang gk benar yekan apalagi sampe jelek in,neutral,negative,0.6346694859901783,negative,0.507178143346359,False,False,False,negative,Negation / Ambiguity Error
+tweet_291915,sedang pelatihan dong ntar ya pas sudah d jkt,positive,positive,0.8149617146657884,positive,0.8803787786548366,True,True,True,positive,Correct
+tweet_069366,tawarkanlah hal hal yang baik jadikan dirimu seutuhnya sebagai iming iming yang tepat agar pria pilihanmu tulus me,neutral,positive,0.6538352941439461,positive,0.7789852771262333,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_230053,salah om yang benar 249juta yang hadir 9juta nya warga jak,neutral,positive,0.6075218177015198,positive,0.7225577969553661,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_324036,lelah tapi seru bisa liat tempat tempat di mahou,neutral,negative,0.6477135211185295,negative,0.748162520936523,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_153963,mau makin dekat sama kalaweit radio add pin bbm 520d52fe akun istagram kalaweit991fm,neutral,positive,0.49740602003828815,positive,0.7896728796650679,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_256673,kemarin ada partai dari kubu sana yang tidak membutuhkan suara umat islam eh ternyata sekarang d,neutral,negative,0.5086305870615125,negative,0.6177505160210094,False,False,False,negative,Negation / Ambiguity Error
+tweet_147221,engkau yang dekat dengan tuhan tak perlu lagi mengeluh karena tuhan mendengar pintamu bahkan jauh sebelum engkau meminta,neutral,negative,0.618364452163521,negative,0.8497754655650381,False,False,False,negative,Negation / Ambiguity Error
+tweet_367593,cucookk buat yang suka traveling lounching di januari yaa open po,neutral,positive,0.38994807430832484,positive,0.5329300297249988,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_079915,9 tahun yang lalu wow sudah berlalu selama itu dulu salah satu penghiburan ke diri sendiri pasca patah hati itu adal,neutral,negative,0.7733251463163836,negative,0.9756659370754619,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_311234,aduh maaf pakcik skrng saya lg gada penghasilan wkwk,positive,positive,0.560550008312839,positive,0.6114140972601365,True,True,True,positive,Correct
+tweet_050847,lebih dekat dapat kiriman dari temanelesai sholat zuhur pemimpin yang dekat dengan rakyat pemimpin muda yang tangguh insyaallah,neutral,positive,0.5376856495011487,positive,0.6507494799904643,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_031969,banyak banget ne pas foto saya yang salah drpd mubazir mendingan saya adakan giveaway pas foto saya sj kali ya ada yang mau tidak saja ht,neutral,negative,0.6384287392393924,negative,0.8145033115864178,False,False,False,negative,Negation / Ambiguity Error
+tweet_253193,kaya punya saya kemarin mora,neutral,negative,0.6529994179473477,negative,0.9125884000311013,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_174328,random thought hujan dan teman temannya sayangnya kali ini tidak ada odeng,neutral,negative,0.3983739029685054,negative,0.5313519165186581,False,False,False,negative,Negation / Ambiguity Error
+tweet_446202,mungkin waktu itu dokumen tpgf dipikir komik sama si kecil ahaye di warnai dicoret,neutral,negative,0.5422501386027789,positive,0.5459746273081187,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_080871,relawan 01 harus ber kelas harus penuh kretivitas 2019 tidak boleh lepas akar rumput siap jadi humas kerja jo,neutral,positive,0.4534029356731539,positive,0.42324391966296787,False,False,False,positive,Negation / Ambiguity Error
+tweet_406993,dia bagai cangkang keras yang sulit untuk saya pecahkan dibalik cangkang itu ada makhluk lembut yang terkadang bingu,neutral,negative,0.5432643155146016,negative,0.6987793979652208,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_172241,bila kau jenis jarang jarang mintak something dekat bae erba salah but thanks sayang,neutral,positive,0.49767426897865485,negative,0.564084327248121,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_262379,it was humiliating my thumbs are sore from trying so hard,neutral,neutral,0.846596342557286,neutral,0.8602060856757522,True,True,True,neutral,Correct
+tweet_409239,kak pinut kamu viral swmoga kaka bahagia terus nemu jodoh yang baik gausah sakit hati segala oke,neutral,positive,0.9171920821330577,positive,0.9706052666073971,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_161251,sesuai muktamar muhammadiyah 1971 tidak ada kelompok politik yang berhak mengintervensi warga muhammadiyah untuk memili,positive,negative,0.4345880371902548,negative,0.42116079305319853,False,False,False,negative,Negation Misinterpretation
+tweet_235962,tiba tiba dapet nomer tidak dikenal terus disuruh nebak siapa dia dan pada akhirnya dia yang salah telfon orang kan kudu hmm,neutral,negative,0.8181746234239741,negative,0.9048296999384297,False,False,False,negative,Negation / Ambiguity Error
+tweet_243962,aku tak dapat menahan cemburu aku tak dapat menahan pilu aku tak dapat menahan rindu frankyahilatua kemarin,neutral,negative,0.5138410418281936,negative,0.5770018692943796,False,False,False,negative,Negation / Ambiguity Error
+tweet_331648,di pantry bisa menyalurkan bakat dan hobi baik hobi makan maupun hobi masak w,positive,positive,0.8324387932627957,positive,0.8102074559485486,True,True,True,positive,Correct
+tweet_188931,haha ndee di tunggu yaa paling 10 tahun lg,positive,positive,0.4854947243792863,positive,0.6297210337073218,True,True,True,positive,Correct
+tweet_152969,british dah bagithu awal if depa taknak dududk malaya boleh duduk negara bawah jajahan british,neutral,negative,0.5621328635689735,negative,0.7046587548653336,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_185032,padahal anak ini tugas dan presentasinya selalu bagus,neutral,positive,0.5363666619127095,positive,0.6558187880156824,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_376539,lebih suka yang sakura soalnya bikin pipi merona,positive,positive,0.49320178041496043,positive,0.6600898353155247,True,True,True,positive,Correct
+tweet_202451,kucumbu tubuh indahku bagus banget,neutral,positive,0.956857344283239,positive,0.9771056000043525,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_260498,besok mesti pagi2 balik lagi kesana ambil motor sekalian nyari tukang ban terdekat persoalannya gimana caranya gua,negative,negative,0.5888839354137714,negative,0.6196307859205132,True,True,True,negative,Correct
+tweet_134373,kami sedang bersamahinta yang sudah empat tahun terbaring tak berdaya dan kita sedang mengupayakan agar shinta bisa p,neutral,positive,0.5699785649573825,positive,0.7825694101167815,False,False,False,positive,Negation / Ambiguity Error
+tweet_158315,dalam pikiran gua dan hati gua ada seseorang yang tidak masalah tidak terpilih lagi mungkin hanya beban moril catatan s,neutral,negative,0.954535066066165,negative,0.983047688803202,False,False,False,negative,Negation / Ambiguity Error
+tweet_148061,reosiane 4 andri pella 1 hai mas andri mohon maaf atas ketidaknyamanan yang dialami mengenai kendala jaringa,positive,positive,0.8049015552368662,positive,0.9529826422454,True,True,True,positive,Correct
+tweet_233147,coba bisa dibaca ansnya kemarin dia ngebahas soal itu haha tidak perlu di oper ke yang lain saya,neutral,negative,0.6885091652188464,negative,0.8996038595555443,False,False,False,negative,Negation / Ambiguity Error
+tweet_406106,ketauhilah mengertilah dan jagalah perasaan orang lain jangan dibikin sakit kecewa atau tidak nyaman oke sip,neutral,negative,0.9730591952248342,negative,0.9940413883221753,False,False,False,negative,Negation / Ambiguity Error
+tweet_333109,yes ama but pernah me orang hargai maaf yang kita minta bila orang buat salah kat kita sng je kita maaf kan,neutral,positive,0.8047237848757398,positive,0.8683853875535594,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_354844,cari admin baru saja sayang banget,neutral,positive,0.7863334052715494,positive,0.9335236287968129,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_377997,gapapa jahat karena capek jadi orang baik,neutral,positive,0.5071298421390501,positive,0.639279683816054,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_253212,malam mbak elia maaf atas ketidaknyamanan yang dirasakan mengenai kendala akses internet info,neutral,positive,0.7912340413172186,positive,0.914177543155433,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_323427,2 bulan lalu ngepost ini di story ehh ternyata taun depan bocah bocahnya benaran ikut apakah aq cenayang,neutral,positive,0.4046076182330668,positive,0.4356241935272233,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_062762,jangan lupa retweet ye,neutral,neutral,0.518235388393363,negative,0.490911655762526,True,False,False,negative,Negation / Ambiguity Error
+tweet_419557,sesekali kuingin tertidur pulas tanpa memikirkan rindu yang sulit lepas,neutral,positive,0.5000333331604154,positive,0.5110490859977478,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_294568,ngode bukan ini mau tau gua dimana sekarang cil,neutral,negative,0.7175840770904178,negative,0.7240250666132643,False,False,False,negative,Negation / Ambiguity Error
+tweet_025911,weh kenapa macam ni bts and exo im tryna fkn live,neutral,neutral,0.8040724862147388,neutral,0.9056338818036612,True,True,True,neutral,Correct
+tweet_279486,pada dasarnya semua tak seperti apa yang kau lihat bahkan orang yang humoris pun kau tak akan pernah mengerti tentang isi hatinya,neutral,positive,0.5019873614284059,negative,0.5621885869120014,False,False,False,negative,Negation / Ambiguity Error
+tweet_210031,base urabaya desb malang 9 18 bali 20 21 jakaa 27 29 wa 0812 31,neutral,neutral,0.47339923453635047,negative,0.5370373823139267,True,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_202399,pakai mesin civic honda hr v turbo meluncur tahun depan,neutral,neutral,0.8691714514542316,neutral,0.9081463023886096,True,True,True,neutral,Correct
+tweet_011045,sebab apa orang buta mudah menghafal alquranebab mereka terhindar dari melihat maksiat dan mereka menghafal menggunakan mata hati,neutral,positive,0.5298613636677307,negative,0.5030949846416602,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_055149,susah dijelasin disini lagian kan kamu mesum hyung pasti paham maksud aku haha,neutral,positive,0.6618448672458197,positive,0.7105712306414563,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_162319,kemudian persiapan tanahnya tidak pas untuk jalan saja tetapi juga ada masih sisa yang nantinya bisa dipakai untuk,neutral,positive,0.48781057253247706,positive,0.5406867043398146,False,False,False,positive,Negation / Ambiguity Error
+tweet_045592,ulang gv live semalam pun menitis lagi sedih sia,negative,negative,0.6858877422600531,negative,0.6763597432633254,True,True,True,negative,Correct
+tweet_109893,syikit jangan la pening pale ox nak pujuk hm,neutral,negative,0.5472428248179532,negative,0.7052249051408613,False,False,False,negative,Negation / Ambiguity Error
+tweet_247786,dah tidak tw lagi mana bsk lusa weekend,neutral,negative,0.6723577370235423,negative,0.8486533239644675,False,False,False,negative,Negation / Ambiguity Error
+tweet_441681,dikamar main hape kedapur makan ke wc mandi ke kamar lagi main hape ke dapur makan ke wc b,neutral,positive,0.7060216063856586,positive,0.7136794297169577,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_087178,reall angels jogja info rr by dm or wa 081910114904 expo madiun,neutral,neutral,0.5230005245822371,neutral,0.6937604521546671,True,True,True,neutral,Correct
+tweet_441729,makasih banyaak aciler gapapa kok makasih sudah sempetin buat dateng luv pokoknyaa,positive,positive,0.6209341463408994,positive,0.8363885036018688,True,True,True,positive,Correct
+tweet_372163,lit try harder i guess joe flizzoe namakan show dia 16 baris tu bukan suka suka your flow have to have that 16 bars f,positive,neutral,0.4412864316341329,neutral,0.4908978065232531,False,False,False,neutral,Polar False Neutral (Under-triggering)
+tweet_056717,alhamdulilah punya teman yang mau jemput di terminal karena gojek tidak bisa di pesan di area terminal pas tidak bawa sepeda,neutral,positive,0.46471703703502276,negative,0.6018947378974135,False,False,False,negative,Negation / Ambiguity Error
+tweet_213790,hebat kalau ada 10 orang saja prof yang kritis seperti tentu indonesia lebih baik,neutral,positive,0.654988547370458,positive,0.7729531491039593,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_105884,flat flat saja tuh gimana,neutral,neutral,0.3812273935034305,positive,0.42326036122931954,True,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_337464,percaya cowoku gitu tidak deket atau genit sama cewe lain tapi dia jeleknya tuh kebawa sama pergaulan tem,neutral,negative,0.6150157816651517,negative,0.5893800570606963,False,False,False,negative,Negation / Ambiguity Error
+tweet_240437,merasa tumbuh menjadi pemuda yang kurang baik,neutral,negative,0.7265510134958,negative,0.7344130275418047,False,False,False,negative,Negation / Ambiguity Error
+tweet_208191,birraa,neutral,neutral,0.6238842176797049,neutral,0.6939554084129648,True,True,True,neutral,Correct
+tweet_372442,masalah paling besar aku sekarang ni kan hm nak tidur susah nak bangun pun susah,neutral,negative,0.8479714844856634,negative,0.9551439727217796,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_276916,hari ini 8 desember hati saya ditampar sekeras kerasnya oleh pemandangan seorang anak perempuan yang sedang menjah,neutral,negative,0.7191050012305411,negative,0.8217399198687563,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_220646,aku kalau kebanyakan makan telur suka gini,positive,positive,0.712021705988718,positive,0.7492470229039446,True,True,True,positive,Correct
+tweet_136294,aku ingin pulang,neutral,neutral,0.6087350440387547,positive,0.43350171125420056,True,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_403407,aku mimpi aku pukul orang sampai tercabut kepala dia bapak ah,neutral,positive,0.5962781092909801,positive,0.6192244265240407,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_238255,okay yang ni kena retweet haha,positive,positive,0.6422631074782343,positive,0.8153211269608229,True,True,True,positive,Correct
+tweet_214269,comeback to indonesia next tour please,negative,neutral,0.642390158566689,neutral,0.8488890598527171,False,False,False,neutral,Polar False Neutral (Under-triggering)
+tweet_021685,bps revisi data beras kemtan tidak akan ubah rapbn 2019,neutral,negative,0.7155285637085087,negative,0.7800699214070994,False,False,False,negative,Negation / Ambiguity Error
+tweet_095918,jadi inget dulu pas sma ngotak ngatik channel tv karena dari kecil gapernah nonton tv terus ketemu one channel ka,neutral,negative,0.547593498543598,negative,0.5406342224075761,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_221242,ciri kawan baik bff dunia akhirat 1 menutup dan menjaga aib kita disaat orang lain cuba korek aib peribadi kita,neutral,negative,0.4676319459330276,negative,0.5091859861323004,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_018291,rumah gadang dimana jek,neutral,positive,0.7180548052972441,positive,0.7638017929733583,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_195290,askmf masker freeman yang mantul apa ya erum yang bagus apa,positive,positive,0.9166002867785665,positive,0.9831494430903496,True,True,True,positive,Correct
+tweet_199080,hindi ko pa din tanggal yung sa nomination hindi ko kayang makitang umiyak nanaman si kaori dahil may isang malapi,negative,negative,0.5343547872108956,negative,0.6389839455729409,True,True,True,negative,Correct
+tweet_188753,yalah kau sorang je struggle teruk dalam dunia nii,neutral,neutral,0.4440238520362874,neutral,0.3931262118730339,True,True,True,neutral,Correct
+tweet_208622,mungkin dia kalau mau naik haji berenang melintas lautan,neutral,positive,0.49083374440485994,positive,0.49660301349337604,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_197250,semalam rumah mau pandan skrg bau bumbu indomie ya rabbii,neutral,positive,0.8082573152690306,positive,0.8455147199487293,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_064368,tidak tahu jalan aku keluar sama kaka aku tapi skrg dianya pergi lama banget,neutral,negative,0.6227561669257611,positive,0.622904797338411,False,False,False,positive,Negation / Ambiguity Error
+tweet_334556,j kayak melody muka dibikin jelek tapi masih cakep,neutral,negative,0.6986210048722095,negative,0.6579995340485028,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_385270,aku banyak bertukar tukar bag kamera ometimes bag tu baru lagi tapi aku tak selesa bag kamera carilah yang baik,neutral,positive,0.7290247354519066,positive,0.8168414097146217,False,False,False,positive,Negation / Ambiguity Error
+tweet_127932,yang nyenggol nengok eh jalan terus yang kena langsung bangun ngejer tu yang nyenggol anaknya lari2 nangis lari ngejer,neutral,negative,0.5138942200638983,positive,0.4832059160984449,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_348042,maaf aku hanya takut untuk menaruh hati lagi aku takut kamu bukanlah akhir dari segalanya maaf biarkan aku sendi,neutral,positive,0.7432028062783081,positive,0.7511573586377405,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_426718,bahagia yah liatnya,positive,positive,0.8620716339813189,positive,0.9152444964808285,True,True,True,positive,Correct
+tweet_399671,bertaubat itu mudah unt diucapkan tapi sangat sulit sekali dlm prosesny hingga taubat kta dterima betul bgitu prof,positive,positive,0.45011879555431455,positive,0.486709922798245,True,True,True,positive,Correct
+tweet_159023,aku minta maaf appreciate gila orang cakap macam ni,positive,positive,0.8946399564769707,positive,0.8781124153477922,True,True,True,positive,Correct
+tweet_121004,hasil akhir itu tergantung pada bagaimana kita berusaha dan berdoa emua itu kembali kepada diri sendiri bagaimana,neutral,negative,0.48209475850979566,negative,0.7896654432363569,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_079545,menang bukan berarti menjadi paling tetapi menang adalah karena anda berusaha lebih baik dari sebelumnya,neutral,positive,0.7909503855579014,positive,0.7943377729279798,False,False,False,positive,Negation / Ambiguity Error
+tweet_260515,sa malam s n resmen,neutral,neutral,0.849293957162542,neutral,0.8828194791644225,True,True,True,neutral,Correct
+tweet_426002,to daddy happy 13th monthsary nda berasa sudah 13 bulan saja gt lt buna senang sekali kamu stay wimm,positive,positive,0.48752536508651934,positive,0.5388135418476002,True,True,True,positive,Correct
+tweet_276585,tak sekarang ni aku ke yang salah tapi aku rasa dah cakap cukup direct dah haritu tak faham faham jugak ke,neutral,negative,0.9686978998831708,negative,0.9953710967252251,False,False,False,negative,Negation / Ambiguity Error
+tweet_101694,mohon infonya lalulintas jakarta arah bandung apakah terjadi kemacetan,neutral,neutral,0.4693265670368191,neutral,0.5539102539184672,True,True,True,neutral,Correct
+tweet_302279,ada di pojok kiri bawah mbah,neutral,neutral,0.449821714430183,negative,0.47624281619442854,True,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_246559,scroll kebawah banyak bokep tinggal pencet,neutral,negative,0.44757643909983524,negative,0.515991936728226,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_100535,tava quase desistindo e indo dormir ficou pronto 0030,neutral,negative,0.4759367433191236,neutral,0.9442685669248866,False,True,True,neutral,Correct
+tweet_396129,bukan cita cita saya jadi suami yang baik kok,neutral,positive,0.6772844414417044,positive,0.7346323926220529,False,False,False,positive,Negation / Ambiguity Error
+tweet_018255,jam segini jangan nekat stalking entar ngebaca yang bikin nyesek bahaya bikin status insomnia padahal cemburu tidak bisa,negative,negative,0.8091626464445143,negative,0.8419925001573156,True,True,True,negative,Correct
+tweet_181816,sudah beberapa kali tujuannya bagus tapi jangan merasa paling b,neutral,negative,0.5811673602255957,negative,0.6095678550011734,False,False,False,negative,Negation / Ambiguity Error
+tweet_327959,benarekali,neutral,neutral,0.5771134585841217,neutral,0.5482794683614277,True,True,True,neutral,Correct
+tweet_257060,first week at work done sore as anything but managed to go a while working week without any tramadol although i c,negative,neutral,0.83690175250873,neutral,0.8598445712374655,False,False,False,neutral,Polar False Neutral (Under-triggering)
+tweet_395978,tolonglah kalian tuh perhatiin kesehatan gigi mulutedih akutuh kalau liat rongga mulut kudu mikir mana yang d,neutral,positive,0.48075266121039306,positive,0.551123082078439,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_256816,lemah sama pilot dapet co pilot juga gapapa,positive,positive,0.6054039369520007,positive,0.8688040892524287,True,True,True,positive,Correct
+tweet_307698,aku mintak maaf kalau tak dapat puaskan hati semua orang aku dah cuba,neutral,positive,0.4975397530508033,negative,0.5189389112475121,False,False,False,negative,Negation / Ambiguity Error
+tweet_190806,1 8juta setelah 3 bulan naik gaji alhamdulillah sampe skrg,positive,positive,0.45980882866068823,positive,0.6184563936869345,True,True,True,positive,Correct
+tweet_419072,pupus sudah harapan balikemarangenin karena masih ada janji dengan dokter gigi,neutral,neutral,0.487683921863113,neutral,0.44157048483035966,True,True,True,neutral,Correct
+tweet_229598,biasa nya yang celebrate mcm ni jenis yang klas hujung2 jee yang jenis dk blakang skli bwah suis kipas sbelah tong sampah,neutral,negative,0.49959830685273415,positive,0.45668477405510566,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_271720,kenapa lepas marah orang yang buat salah mesti rasa serba salah aku taknak kau jadi worse daripada ni dik,negative,negative,0.8746815118961233,negative,0.9452517990019841,True,True,True,negative,Correct
+tweet_211569,buktikan dong,neutral,neutral,0.49779511003785804,neutral,0.4948377946546018,True,True,True,neutral,Correct
+tweet_211913,excited to be in for where we bring cities and their 6 teams,neutral,neutral,0.8904834604173141,neutral,0.943360818250439,True,True,True,neutral,Correct
+tweet_153352,terima kasih kepada mrs dari rina atas pemakaian unit bigbusiena wisata tujuan ciseeng bogor pada tanggal 23 novem,neutral,positive,0.4471080713070427,positive,0.6844277962296321,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_324762,iya tahun 2001 serombongan pendaki terjebak dlm badai di puncak g lamet aat dilihat dari,negative,negative,0.3625712020764989,negative,0.4442310822711705,True,True,True,negative,Correct
+tweet_404429,mek bahagia dah smpe rumah,positive,positive,0.9113476551222104,positive,0.8832142306560823,True,True,True,positive,Correct
+tweet_033649,move on ler sis takkan nk tawar hati sampai bila2 kot letak gula skit tak rasa ke mcm stuck dekat m s,neutral,negative,0.45075142257563183,negative,0.5400289084967342,False,False,False,negative,Negation / Ambiguity Error
+tweet_065693,garem saja biar pergi,neutral,positive,0.46900968714270597,positive,0.586453930213819,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_046007,sebetulnya tidak ada faedah sama sekali tapi ya karena sahabat yaudah ya p p p bumm anjir apee,neutral,positive,0.8193660496285462,positive,0.8685030068328269,False,False,False,positive,Negation / Ambiguity Error
+tweet_117790,rabu 14 nov lawatan dari pengerusi lembaga pengarah universiti y bhg dato dari muhammad nur manuty dan naib cans,neutral,positive,0.38450023589740917,positive,0.40747233027178825,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_437153,kamu pernah mimpi dikejar hantu tidak,neutral,negative,0.4541682771023687,negative,0.6535280583592936,False,False,False,negative,Negation / Ambiguity Error
+tweet_436827,gw tidak pernah mimpi gitu gemana dong,neutral,negative,0.4645030496027234,negative,0.7126683510705534,False,False,False,negative,Negation / Ambiguity Error
+tweet_042406,nii,neutral,neutral,0.7906421109385642,neutral,0.8223204550358268,True,True,True,neutral,Correct
+tweet_192570,akhirnya manga yang sudah gue beli dari 3 bulan plus 1 minggu lalu kebaca juga ceritanya tidak biasa berunsur fantasi,neutral,positive,0.6499236694963778,positive,0.6997814596519568,False,False,False,positive,Negation / Ambiguity Error
+tweet_132542,nak jadi baik tak ikut tempat la ustad ni,positive,negative,0.7477898538894692,negative,0.781779034030574,False,False,False,negative,Negation Misinterpretation
+tweet_241537,ok give us our pagi and take your friend nawazharif a mafia thief,neutral,neutral,0.7366434700076646,neutral,0.7810970134620865,True,True,True,neutral,Correct
+tweet_263612,ngaji pagi sambil ngopi,neutral,neutral,0.5157021263345684,neutral,0.5832750040955629,True,True,True,neutral,Correct
+tweet_129291,presiden jokowi sedang mencanangkan gagasan kapsul waktu yang diwujudkan dm bentuk ekspedisi dan monumen,positive,positive,0.5670421425765164,positive,0.5788536148198462,True,True,True,positive,Correct
+tweet_211604,avail bandung open vcsilahkan cek bio dm,negative,negative,0.8590881788056702,negative,0.9360186803862494,True,True,True,negative,Correct
+tweet_143344,las ni atas ofendidas de hoy son las feministas del ma ana van a,neutral,neutral,0.7666630718733582,neutral,0.7841625351935542,True,True,True,neutral,Correct
+tweet_282317,kenapa disini roje nya mirip shuhua ya,neutral,neutral,0.4606140039672901,neutral,0.8399454822534285,True,True,True,neutral,Correct
+tweet_011315,from lelaki okay true story benda sebelum kahwin semua bintang dek emua bintang please ye,neutral,negative,0.6099845360519086,negative,0.6561139597442318,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_070339,dh dekat pun tak pergi lg melaka tktauu,neutral,neutral,0.39498395033494804,negative,0.4083587593578343,True,False,False,negative,Negation / Ambiguity Error
+tweet_382167,saya suka video key log ep7 baby you are my luckey star,positive,negative,0.5718275026857735,negative,0.5858671859619268,False,False,False,negative,Polar Inversion
+tweet_354616,duo biduan kangenayang m18 records,neutral,neutral,0.5026604797453528,neutral,0.46414847907453505,True,True,True,neutral,Correct
+tweet_349024,morning sayang jan cemberut gitu ah ntar aku cium mau v hapsun and have a nice day baby love you,neutral,positive,0.7830823879022746,positive,0.7848275068701763,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_434536,info liburan nih gaes,neutral,negative,0.47830824495161856,negative,0.587432884526654,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_223496,sebenernya tidak tabu sih tapi masih suka sensitif gitu oal mantan day6,positive,positive,0.5425902036420711,negative,0.46991619103160664,True,False,False,negative,Negation Misinterpretation
+tweet_189188,boleh dicontoh nih,neutral,neutral,0.822881881270526,neutral,0.7975866782629676,True,True,True,neutral,Correct
+tweet_324798,knp ya sulit banget buat boong saat sudah niat mau bicara bohong yang keluar lagilagi malah jujur hadeh,neutral,positive,0.5009593233109243,positive,0.773785523516856,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_143428,terserempak dengan tengah beratur sendiri order makanan di mcd putrajaya,neutral,negative,0.6515282830551569,negative,0.9539213479475844,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_185677,seng sering tak play nengpotify 6 bulan terakhir campur2,neutral,negative,0.5312828879554297,negative,0.6122432867560884,False,False,False,negative,Negation / Ambiguity Error
+tweet_126866,me farah qurataanyuni,neutral,neutral,0.7596645180962178,neutral,0.826785909010419,True,True,True,neutral,Correct
+tweet_329968,kalau ada yang nanya kenapa presiden mengurangi berbagai subsidi ini salah satu jawabannya cek akun bupati dharmasr,neutral,negative,0.8158483611563228,negative,0.8993811108642337,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_271279,ivr 20181207 xvii xii 98761126 pagi kok cashback saya masi blum saya trima ya,neutral,negative,0.6460234328644544,negative,0.7895407200535035,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_131336,dari zaman sekolah sampai lah sekarang aku gunting rambut ngan brader nie bila dapat tahu kes nie htt,positive,neutral,0.3662374282581807,negative,0.4047157621632694,False,False,False,negative,Polar Inversion
+tweet_175253,haa betul sangat,neutral,negative,0.37919668809349594,positive,0.3946427997931319,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_423449,jika menurutmu bersamaku membuatmu tak bahagia aku akan mendukungmu dengan siapapun seseorang yang menurutmu bisa membahagiakanmu,neutral,positive,0.713102421112294,positive,0.7297800747792652,False,False,False,positive,Negation / Ambiguity Error
+tweet_407128,thirahh aku mimpi kau kau rindu aku en,neutral,positive,0.8139144517434357,positive,0.8143918080683588,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_063677,yow heyyo kak par salam kenal dengan adik jungkook disini eh gadeng wkwk,positive,positive,0.4446480823469704,neutral,0.5354983105819116,True,False,False,neutral,Polar False Neutral (Under-triggering)
+tweet_171857,kenapa la dapat member macam tu tu takde deme bosan la hidup aku,neutral,neutral,0.5721516032753032,neutral,0.6406395538880965,True,True,True,neutral,Correct
+tweet_308592,selamat siang bpk hakim mohon maaf atas ketidaknyamanannya agar dapat kami tindaklanjuti pengaduan bpk,neutral,positive,0.79105224819553,positive,0.9642841978164578,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_429010,tapi akhirnya beberapa pd blg g mngkin dia bohong dia mmng sdh pasti popular kok dia agak taken back karena,neutral,neutral,0.3437871645163681,positive,0.39526599037340804,True,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_204508,ok aku tanya tahun depan,neutral,neutral,0.4899452813729301,neutral,0.5196635941453593,True,True,True,neutral,Correct
+tweet_250214,yuhuu selamat buat sayang tidak ada satu pun yang hadir buat ambil piala tapi keren lah gw,positive,positive,0.8292273278615996,positive,0.7785902088744721,True,True,True,positive,Correct
+tweet_292983,kalau menu nya begituan trus dimana letak bahagianya dad tapi kalau enak terus tidak ada greget hidup jug,neutral,positive,0.6010634374674197,positive,0.501957218191502,False,False,False,positive,Negation / Ambiguity Error
+tweet_028409,sama sama kak,neutral,positive,0.9043558066402095,positive,0.9995705986484562,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_019418,selagi umat islam tidak bersatu hati selagi itu akan diperlekeh oleh musuh2nya akhirnya yang dikejar tak dapat yang dik,neutral,positive,0.4743484526198342,positive,0.4805328349118425,False,False,False,positive,Negation / Ambiguity Error
+tweet_427270,keluarga bahagia presiden semoga samawa pak,positive,positive,0.9391751140891373,positive,0.9803092893089501,True,True,True,positive,Correct
+tweet_320869,kapan terakhir ke bukit pawuluhan lur masmin sangat jarang menjumpai foto yang berlokasi di bukit pawuluhan ket,neutral,positive,0.5605434110604146,positive,0.606039821829475,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_162198,zie drop by lunch set bermula dari jam 11 30 pagi sehingga 2 30 petang dan kamurang,neutral,negative,0.45207709996653206,negative,0.48127961922385226,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_223889,why tolak icerd takut lah,neutral,negative,0.6119730982431509,negative,0.7355275128691793,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_328500,koordinasi mata dan tangan yang belum baik bisa mempengaruh banyak hal termasuk kemampuan menulis membaca dan sebagainya aku,neutral,negative,0.498312119129069,positive,0.6595467220212525,False,False,False,positive,Negation / Ambiguity Error
+tweet_290673,kenapa nak travel situ kalau kita boleh travel tempat lain bersama,neutral,negative,0.6971555996414964,negative,0.7232687502517903,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_365723,pedagang dan abang becak wisata di makam bung karno dukung jokowi kma,neutral,positive,0.45995851964430085,positive,0.5198225830501589,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_121942,kenapa jaket temen cowo yang w pinjem selalu lebih enak dan lebih wangi,positive,positive,0.54656793727284,positive,0.6631026139430097,True,True,True,positive,Correct
+tweet_244441,sukunya sukumoi kopinya kopienang,neutral,neutral,0.4539867616642461,positive,0.4264711616370892,True,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_218316,aniesebutungai di jakarta tercemarejak gubernur terdahulu,neutral,neutral,0.7463805350646977,neutral,0.8991708771103117,True,True,True,neutral,Correct
+tweet_244576,gue mau hiatus sih keknya mau puas2in denger lagu day6 dulu sebelum besok hehe good night,positive,positive,0.6909159461841986,positive,0.6917001712971171,True,True,True,positive,Correct
+tweet_382432,kangen nyanyiama cerii ih ayo nyanyi lagee,positive,positive,0.6550174375731431,positive,0.7828282524879635,True,True,True,positive,Correct
+tweet_386378,nih bunda desc ya kamu itu anaknya baik rame banget asik hobi ngalong hm kalem tapi bobrok juga gimana ya wkwk terus kada,positive,positive,0.9831112719724863,positive,0.9981640567620103,True,True,True,positive,Correct
+tweet_240095,denti seorang gadis kecil berusia 8 tahun yang tinggal di dusun karang gunung kidul harus melalu,neutral,negative,0.45542455909943813,negative,0.5772562659619279,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_432978,semoga ditahun 2019 dirimu semakin bahagia rejeki lancar hidup aman damai tentram dan sejahtera emanga,positive,positive,0.9351349788408985,positive,0.957746463864429,True,True,True,positive,Correct
+tweet_075301,hampir tiap hari dengar berita bapa rogol anak kemudian anak yang dirogol itu pula bawah 10 tahun umur setahun pun ada,neutral,negative,0.5733909096836904,negative,0.618901230518588,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_083561,more info cek bio jakaaelatan rea xpo f ll w,negative,negative,0.9482471463560502,negative,0.9922479257211749,True,True,True,negative,Correct
+tweet_244791,iya sayang sama sama p,positive,positive,0.9505387057619383,positive,0.9991354959704969,True,True,True,positive,Correct
+tweet_446787,bbyuu nanti saja kalau mau nikah kaak,neutral,negative,0.500364737927097,negative,0.5656259133704155,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_444524,sindir ajaindir mulu kai,neutral,neutral,0.5505483613776608,neutral,0.6101931223722075,True,True,True,neutral,Correct
+tweet_006254,sedih gua baru sadaremakin lama gua main rp semakin tua dan semakin tampak membosankan guaemakin tidak asik lagiem,negative,negative,0.8532033971499683,negative,0.9134642113221171,True,True,True,negative,Correct
+tweet_421190,tapi lo tetep adik gua temen gibah gua sorry kalau di 2018 ini juga gua jadi jauh sama lu tidak pernah cerita ceri,neutral,negative,0.8818291340350575,negative,0.9550122354975689,False,False,False,negative,Negation / Ambiguity Error
+tweet_022862,tolong sisain satu saja daniel oppa yang bisa jindollies bucinin,neutral,positive,0.7838020067798404,positive,0.9053528557477576,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_114686,bangun tidur kuteyus mandi,neutral,positive,0.3868079400745385,positive,0.4067359252754112,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_326060,rlt salah apaya gue pemula mo beljr english kan tapi prefer bljr biritsh sama aus accent and my friend said gaya benar lo ma,neutral,positive,0.5215352001971826,positive,0.6089874336653026,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_037181,kenapa investor jarang masuk ke madura alah satunya karena faktor keamanan madura selalu identik dengan tempat p,negative,negative,0.8615651631134604,negative,0.8935134255139204,True,True,True,negative,Correct
+tweet_024977,ketika para pengarah berebut pengaruhyorga ingin dikuasai sendiri kebenaran harus dilegitimasi oleh pribadinya,neutral,negative,0.5549097109603072,negative,0.8283592140391707,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_352105,tiga roda,neutral,neutral,0.7279302596592093,neutral,0.7766978258386307,True,True,True,neutral,Correct
+tweet_188464,wawancara k army oleh korea now tentang setelah mereka nonton film burn thetage ada seorang k army yang s,neutral,negative,0.5400214008503418,negative,0.6570142911573099,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_313952,bila besar nanti besarlah dengan namamu,neutral,positive,0.4539993783050189,positive,0.41970412428546056,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_340044,bacaan pagi yang menarique,neutral,positive,0.484931079192772,positive,0.5792346103091144,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_033535,bukan mba saya dibandingin sama suzy uzy bukan apa apa wkwk,positive,positive,0.4623458219506019,positive,0.669511060049502,True,True,True,positive,Correct
+tweet_099749,cuma di jogja,neutral,neutral,0.587887811949785,neutral,0.8445821575765141,True,True,True,neutral,Correct
+tweet_296042,ternyata bukan saya doang yang segan dan sungkan sama ayah padahal ya ayah kandung sendiri,neutral,negative,0.6595248377153303,negative,0.8617721539230913,False,False,False,negative,Negation / Ambiguity Error
+tweet_143395,susahnya nak cari laf dekat sini,neutral,negative,0.7142654313575166,negative,0.8502566209621771,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_168375,ape kebangangnye lah,neutral,neutral,0.6710620953644553,neutral,0.6127450571904574,True,True,True,neutral,Correct
+tweet_306263,bantu up bang,neutral,positive,0.6030547170659628,positive,0.8473295336915381,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_261822,nikmatilah malam minggu ini hay para jomblo sejati,neutral,neutral,0.4895366443969048,neutral,0.514399368959248,True,True,True,neutral,Correct
+tweet_418691,semoga bisa,neutral,positive,0.7505897793247244,positive,0.9372582800776,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_364253,semangat pokoknya ya neng,positive,positive,0.9261160512979555,positive,0.9768698926169579,True,True,True,positive,Correct
+tweet_191786,besok anak2 kalau ke ina kasih seragamma kayak gini saja gemas,neutral,negative,0.5165136484875269,positive,0.5297377130426775,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_405674,elok diam je lah ko ni,neutral,neutral,0.7855482228888159,neutral,0.7766793623738951,True,True,True,neutral,Correct
+tweet_222015,lama tidak jumpa jg 3,neutral,negative,0.7499971730476954,negative,0.8726854660430666,False,False,False,negative,Negation / Ambiguity Error
+tweet_109070,saatnya tv busuk kita tinggalkan tolong cabut ijin tv busuk kalau pak prabowo terpilih nanti cc dan htt,neutral,positive,0.47191838704842565,positive,0.5638047422037609,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_253578,hi guys orry for the late update admin berada di luar kawasan skrg baru balik jadi malam ini kita akan announce kan pem,neutral,neutral,0.4659120572439409,neutral,0.4998763034456985,True,True,True,neutral,Correct
+tweet_155127,sewa ruang kantor dekat thamrin dan tanah abang jakarta pusat lokasitrategis,neutral,neutral,0.49655278543549713,neutral,0.7000951688653848,True,True,True,neutral,Correct
+tweet_123500,ngobrol disini saja gausa dm2 kamu tidak pake foto sendiri soalnya aku takut,neutral,negative,0.7036336289462394,negative,0.8961320789402757,False,False,False,negative,Negation / Ambiguity Error
+tweet_423150,abisin budget akhir tahun ho oh kayaknya demi report gemilangbuat para shareholders haha duh di pa,neutral,positive,0.7124956180128317,positive,0.7976272267242552,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_170946,are you grow your pay restaurant real estate corporate business if you want grow your business knock me https,neutral,neutral,0.727730946841598,neutral,0.8153949242986152,True,True,True,neutral,Correct
+tweet_079379,tak sampai pun lagi satu hari naik supervisor aku punya serabut nak fikir strategi untuk staff aku tu kemain moga a,neutral,negative,0.5479164074814314,negative,0.6860147119222578,False,False,False,negative,Negation / Ambiguity Error
+tweet_084766,day6 youth in jakaa freebies by jaeparksungjin keychaintickeret photocardset very limited,neutral,neutral,0.7578854311480093,neutral,0.809872324098613,True,True,True,neutral,Correct
+tweet_030241,gue tidak bisa gemesin gitu,neutral,neutral,0.5073770102352394,neutral,0.5173332504073043,True,True,True,neutral,Correct
+tweet_073252,bye unver gue ya mau join disini soalnya ada jaehyun,neutral,neutral,0.5706515689003506,neutral,0.8130713096764154,True,True,True,neutral,Correct
+tweet_207751,dm aku yuk,neutral,positive,0.4768961063522749,positive,0.49093120385383904,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_361986,tak suka gila macam ni lagi2 kalau baru bangun tidur,neutral,positive,0.708999461199638,positive,0.7025773998222724,False,False,False,positive,Negation / Ambiguity Error
+tweet_327515,liverpool 1 0 napolialah scores as reds reach champions league knockout stage,neutral,neutral,0.6878476238269013,neutral,0.7321496408174748,True,True,True,neutral,Correct
+tweet_001470,bisa dijelasin ini parfum siapa di kamar kos kamu baunya cewek banget tadi aku nemu disamping kasur ayok jelasin h,neutral,positive,0.6298497924850397,positive,0.7939453742407301,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_083934,ot ge base jakaa rr by dm wa 0878 8677 1994 info cek bio,negative,negative,0.8860927429895354,negative,0.9685541382390186,True,True,True,negative,Correct
+tweet_125777,sibux teros kapan ada waktu buat aq nya,neutral,neutral,0.47536695035404475,neutral,0.47074842989863164,True,True,True,neutral,Correct
+tweet_038479,tidak cukupkah gempa tsunami menegur ilahkan banggakan infrastuktur di atas kesombong keangku,neutral,negative,0.6995507369931272,negative,0.8024654457820634,False,False,False,negative,Negation / Ambiguity Error
+tweet_277965,kayaknya emang lelaki tempatnya salah,neutral,negative,0.9081590610878194,negative,0.9375048192902768,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_141381,geli enak ngeprank video lokal berondong anak sekolah kuli grepe ngintip ditoilet coli lokal ml yang mau bisa dm,neutral,positive,0.40454026975210056,positive,0.5172492475748409,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_066835,disini lagi petir gluduk gluduk,neutral,neutral,0.8623905593071898,neutral,0.992688401832803,True,True,True,neutral,Correct
+tweet_244030,okay since ramai yang dah tanya i akan sekali lagi open order untuk miracle bio water big size 300ml small siz,neutral,negative,0.6542112940566085,negative,0.7346940261080193,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_247801,njir itu dari siang video sunatan kenapa muncul lagi sih ngilu,neutral,negative,0.43606769792010736,neutral,0.5363799092778401,False,True,True,neutral,Correct
+tweet_355611,kenapa allah tarik perasaan orang yang dulu bagai nak rak suka kita mungkin sebab dia jeles kita syg orang tu lebih dari kita syg dia,positive,positive,0.6303900927214305,positive,0.5796963833318891,True,True,True,positive,Correct
+tweet_445072,stop saying tak ajak maybe you re no fun to ajak be fun 2019 nanti ya,neutral,negative,0.39622056876124706,negative,0.37753385149628466,False,False,False,negative,Negation / Ambiguity Error
+tweet_392331,ini bukannya bukti bahwa ybs tidak membaca persyaratan awal dengan baik ya min,neutral,positive,0.7589998704145866,positive,0.8768491012322565,False,False,False,positive,Negation / Ambiguity Error
+tweet_221270,ternyata buah dari fenomena pemimpin spt ahok jokowi pengkhianatan mainstream media karena dukung,neutral,positive,0.4909076309076104,positive,0.46463764419517745,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_138110,dek pulang dek,neutral,neutral,0.5223006891883112,negative,0.40596626965047006,True,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_191939,candid style,neutral,neutral,0.7954023015315722,neutral,0.824753716120533,True,True,True,neutral,Correct
+tweet_376669,makanya lebih suka kalau gabung gc isinya tidak lebih dari 10 orang,neutral,negative,0.7452567654510346,negative,0.8265932030095097,False,False,False,negative,Negation / Ambiguity Error
+tweet_135013,akhirnya tidak berangkat baru bangun wkwk,positive,negative,0.564427736171393,negative,0.5596928435110184,False,False,False,negative,Negation Misinterpretation
+tweet_241609,besok dah aku cari di gramed sudah lama nyari tidak dapet2,negative,negative,0.9166002448463783,negative,0.9560851406584994,True,True,True,negative,Correct
+tweet_445555,kalau aku nonton coco waktu pulang kampus sama teman teman seriusan dis itu aku nahan nahan biar tidak n,neutral,negative,0.49472831837360576,positive,0.5632962149277562,False,False,False,positive,Negation / Ambiguity Error
+tweet_398523,lov46le baik terima kasih data yang sudah diberikan informasi lebih lengkap akan disampaikan via dm evan,positive,positive,0.9267378400171625,positive,0.9899091414760302,True,True,True,positive,Correct
+tweet_382310,trus gua tanya nih kalau ini daftr proyek mangkrak trus selsa,neutral,negative,0.5942878335160224,negative,0.6021239604527665,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_090234,bom dia p quem chegou em casa 510 e t indo trabalhar agora no plano,neutral,neutral,0.6751451170708447,neutral,0.9950380063938496,True,True,True,neutral,Correct
+tweet_340443,kpop dilawan kata salah satu akun twitter,neutral,negative,0.8787905188104521,negative,0.9512765795392988,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_348987,saya suka jiwa2 sombongnya ini,neutral,negative,0.6999026202341267,negative,0.7739085885466215,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_338811,btw aku salah tanya tadi,neutral,negative,0.7978342196363302,negative,0.867180602773198,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_418557,ya allahh berai ai mimpi jyunhao debut ama yang lain apaa dong,neutral,positive,0.7220435197626264,positive,0.8974980219130273,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_139981,masalah dengan sekolah adalah mereka memberikan kamu jawaban dan mereka memberimu ujian itu bukanlah hidup,neutral,positive,0.6440160367050484,positive,0.6458303164639014,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_373155,kok lo jahatih,neutral,negative,0.47004182630236147,neutral,0.4632338776302706,False,True,True,neutral,Correct
+tweet_445171,bisa bikin ben rok tidak bg kalau lulus,neutral,negative,0.5086157504914642,negative,0.6310162612272591,False,False,False,negative,Negation / Ambiguity Error
+tweet_002458,kamu ngambeque ceritanya,neutral,positive,0.42909220423193445,positive,0.5282841372372444,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_104361,indo rabiscar,neutral,negative,0.578585842516163,neutral,0.9952968896478787,False,True,True,neutral,Correct
+tweet_173559,how isu2 going like today,neutral,neutral,0.7704093997689694,neutral,0.8700838448076748,True,True,True,neutral,Correct
+tweet_027697,sa mga gusto po manood perfect po para sa mag couple bff grab nyo na sayang yan kung malapit lng ako na lng sama ko,positive,neutral,0.4468947699878132,neutral,0.4859643739692753,False,False,False,neutral,Polar False Neutral (Under-triggering)
+tweet_422372,astaga aku kecewa sama kamu bung kirain pecinta disney benaran,neutral,positive,0.6002119807350337,positive,0.8612641822542442,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_401918,nakasama ko na naman sya ngayong araw hay kahit isang oras lang sulit pa den,neutral,neutral,0.6417144154486435,neutral,0.6431130683642915,True,True,True,neutral,Correct
+tweet_158983,nanti awalnya kamu disuruh masukin gender tinggi bb sekarang bb yang diingin dicapai sama jenis kegiatan kamu s,neutral,positive,0.44713177033794366,positive,0.6943677559270888,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_339682,ajar diorang iron cepat sekali tkdelah meroyan aku tunggu dorg siap iron,positive,positive,0.41995793108634355,negative,0.37524624292882014,True,False,False,negative,Polar Inversion
+tweet_327910,yang bw atas bagus banget,positive,positive,0.9781108116795764,positive,0.99980542909507,True,True,True,positive,Correct
+tweet_314651,al maya ba lad mdaat 1940 civarlar di ne ara 0400 oldu,neutral,neutral,0.8010700614634468,neutral,0.8003441543097337,True,True,True,neutral,Correct
+tweet_103692,gente ta proibido ser de esquerda se nao for pobre agora,neutral,neutral,0.7787543702022225,neutral,0.9486494269957897,True,True,True,neutral,Correct
+tweet_138847,nyokk bawa pulang,neutral,neutral,0.6474513427978129,neutral,0.5633154808486723,True,True,True,neutral,Correct
+tweet_260660,hai kakak jika saat ini masih mengalami hal yang sama yuk kirimkan detail yang kakak alami nomor,neutral,positive,0.8878248630923495,positive,0.9742151868133141,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_245340,malam uwu haha,positive,positive,0.6591152727957573,positive,0.71966133640839,True,True,True,positive,Correct
+tweet_117750,haha menteri pendidikan dah mula usaha membunuh karakter presiden partinya sendiri entap ler tuebab diperintahka,neutral,negative,0.5590071649381704,negative,0.8292834352929263,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_321249,makanan yang paling enak adalah makanan yang ada kamunya di sampingku lalu ketika kumau bayar kamu tahan biar aku aja katamu,positive,positive,0.7170690830860316,positive,0.8003652573538798,True,True,True,positive,Correct
+tweet_316659,saat pak presiden melakukan hal hal besar untuk kepentingan rakyat kalian bully kalian fitnah ini itu aat,neutral,positive,0.43918679816790596,positive,0.4541964490229798,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_380364,akhir jadi suka mikir sudah jdi pribadi yang baik tidak sih aku ini pengennya punya kehidupan yang lebih baik but i not,positive,positive,0.9206789622431439,positive,0.9849755354586825,True,True,True,positive,Correct
+tweet_192664,layanan spa dan massage 24jam surabaya sidoarjoiap dipanggil ke hotel apartemen kost dan rumah wa 0817560405,neutral,positive,0.5316231110419882,positive,0.5557536387719035,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_416351,y peoplea ingetin lg bhw istiqomah itugtulit,neutral,neutral,0.5510550389123621,neutral,0.5164054703557189,True,True,True,neutral,Correct
+tweet_320338,10 12 2018 menindak lanjuti aduan dari warga hari ini tim dari dlhk kabupaten klaten dlhk provinsi jawa tengah dan pemer,neutral,neutral,0.3477051173045312,positive,0.4089525317988577,True,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_136514,tuhan sedang mengerjakan sesuatu yang besar melalui before 30 discipleship kidz telah terbuka 11ekolah di kota,neutral,positive,0.7011215324994658,positive,0.7252132509144836,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_264325,samlekumelamat pagi,neutral,neutral,0.5055574683747657,positive,0.5582228445267098,True,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_048301,dear agan2 kalau mw bo disini harus siap ketipu sama njel fake njel real note njel real yang merasa tidak nipu tidak usah baper,neutral,negative,0.6627889010206349,negative,0.630792026413302,False,False,False,negative,Negation / Ambiguity Error
+tweet_261321,wtf am i doing pukul 4 pagi tak tido dok belajaq chord lagu dinda esok dah la keje pagi,neutral,positive,0.33873424619370957,negative,0.41722203990340756,False,False,False,negative,Negation / Ambiguity Error
+tweet_333817,topik infrastruktur dan utang ini bisa menjadi topik diskusi publik yang baik yaratnya harus diperjelas dulu infr,neutral,positive,0.8448202279664068,positive,0.9160853843832459,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_392040,dari dulu kita kenalkan bagus,neutral,positive,0.6344373188536161,positive,0.7669646230807379,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_094066,e t indo trabalhar,neutral,negative,0.5944379837422513,neutral,0.9980383676218694,False,True,True,neutral,Correct
+tweet_006941,voice dan signal really recommended,neutral,neutral,0.6333202329001967,neutral,0.6709219791621333,True,True,True,neutral,Correct
+tweet_411436,setuju banget bro kalau ternyata memang member member lama sudah terlambat buat belajar dan diaj,neutral,positive,0.9347329814203802,positive,0.9810139524269191,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_253452,denger denger sih lusa mid semester,neutral,neutral,0.5249086053037025,neutral,0.5206519905824558,True,True,True,neutral,Correct
+tweet_061354,sudah cukup cukup sudah cukup sampai disini saja dari pada hati tersiksa lebih baik ku pergi saja,neutral,positive,0.5560487540514542,positive,0.791646672929557,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_060420,jauhkan hamba dari teman seperti ini,neutral,negative,0.44424314215693483,negative,0.5289283953989823,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_169049,ayo cari bolanya di tangan di kaki tidak ada tuh bayi 6 9 bulan pun mengenal bagian bagian tubuhnya gt,neutral,negative,0.8014820995189277,negative,0.8788836824357533,False,False,False,negative,Negation / Ambiguity Error
+tweet_335012,akhirnya aku benar dimatamu olop,neutral,positive,0.5510384961721215,positive,0.6540522347602433,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_391723,bingung milih lagu day6 yang bagus mana saja,neutral,positive,0.8448392403936562,positive,0.9266694028114895,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_272548,no abeg th,neutral,neutral,0.791711694673542,neutral,0.8643279344802105,True,True,True,neutral,Correct
+tweet_298779,bang lo tidak takut kena razia kamtib,neutral,negative,0.8274447291993591,negative,0.9148315133823285,False,False,False,negative,Negation / Ambiguity Error
+tweet_091630,open booking now bandung expo wajib dp rr by dm wa,neutral,neutral,0.522610715199187,negative,0.47802546868176693,True,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_099134,gua jakarta bisa berteman dulu,neutral,neutral,0.5758964457609127,neutral,0.8797645887227858,True,True,True,neutral,Correct
+tweet_099689,s queria ta indo pra praia mais querer n o poder,neutral,neutral,0.779142598873834,neutral,0.9954735683817031,True,True,True,neutral,Correct
+tweet_186827,tadi sempet tidak percaya kalau umurnya 14 tahun tapi liat kukunya sepanjang itu kayaknya emang benaran deh,neutral,positive,0.5618001450200283,positive,0.5072946868205073,False,False,False,positive,Negation / Ambiguity Error
+tweet_208591,selamat pagi kamu bau amis,neutral,positive,0.729708608725254,positive,0.8578041678018409,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_257758,sudah saya santap kamu tadi sore,neutral,neutral,0.46353849271381226,negative,0.5134443198503273,True,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_048756,bangun pagi berharap harini hari sabtu tapi rupanya harini hari isnin selamat kembali pergi kelas mm,neutral,positive,0.6109731052318409,positive,0.7493511596293865,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_012423,ano b r2 asamahan kita by loisa andalio,neutral,neutral,0.9003436858187693,neutral,0.9974823304489596,True,True,True,neutral,Correct
+tweet_198680,saya suka dengan adinda opan lugas pintar rendah hatiemoga terpilih menjadi wakil rakyat da,neutral,negative,0.4851943757113825,negative,0.5368449099182931,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_057649,seperti lagi butuh teman sharing teman explore tapi gapunya hehe,neutral,positive,0.3461449593640899,negative,0.3832069120294577,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_257321,besok mau lagi,neutral,neutral,0.8959394271862591,neutral,0.9425330682547244,True,True,True,neutral,Correct
+tweet_129043,monumen kapsul waktu juga letaknya g jauh dari bandara mopah jadi gampang nyarinya,neutral,negative,0.5053651037645862,negative,0.6885515137361006,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_030483,yang mau order full durasi video smpai crot bisa wa 085840727922,neutral,neutral,0.5080705276858046,neutral,0.47026041002000385,True,True,True,neutral,Correct
+tweet_129202,monumen kapsul waktu di merauke papua yang menyimpan impian indonesia 2015 2085 telah rampung d,neutral,positive,0.438654004069321,positive,0.4362917402795802,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_341122,tidak ada yang salah antara perempuan bekerja diluar rumah ataupun tidak bekerja yang salah adalah ket,positive,negative,0.8717534677385885,negative,0.9536847620803938,False,False,False,negative,Negation Misinterpretation
+tweet_097563,available booking female escort bandung in exclude room cod 165cm 42kg bra 34b kulit putih contact by whatsapp 62858,neutral,neutral,0.827406633441167,neutral,0.8641404961937933,True,True,True,neutral,Correct
+tweet_347529,papi deff sayang,neutral,positive,0.8755510829947781,positive,0.894327450052911,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_239175,semua pemimpin punya kekurangan dan kelebihan jadi tidak usah nyinyir yang sekarang didukung,neutral,negative,0.6935527819147865,negative,0.8331319694807139,False,False,False,negative,Negation / Ambiguity Error
+tweet_115986,harap harap dia terlajak tidur,positive,positive,0.5882144725354639,positive,0.5852834524719461,True,True,True,positive,Correct
+tweet_128066,saya selalu bangun tepat waktu mbak,neutral,negative,0.6246394551565262,negative,0.734717184434963,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_118419,jujur aku terenyuh,neutral,neutral,0.4451105612731559,neutral,0.4043386850108725,True,True,True,neutral,Correct
+tweet_277931,beberapa bulan lepas kami pernah menulis tentang kereta ini mazda mps kereta hot hatch jepun yang ramai orang t,neutral,negative,0.47327324874974147,positive,0.5059572305507833,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_442359,ni penting la ehh ni nak delete ke macam guna nanti last2 semua tak delete ahahhahahah,neutral,negative,0.7120960536837626,negative,0.7515076915946712,False,False,False,negative,Negation / Ambiguity Error
+tweet_123819,giveaway time halo karena kondisi kulit aku yang tidak suka tidak ngasih efek pas pakai mereka aku mau kasih mereka secara,neutral,negative,0.5377754885080069,negative,0.6129939968734913,False,False,False,negative,Negation / Ambiguity Error
+tweet_311903,ini sih bukan karena dikasih tau staff ya soalnya dia waktu itu natap kamera trs denger suara figura itu ud,neutral,positive,0.6470875687725758,positive,0.7342453742939441,False,False,False,positive,Negation / Ambiguity Error
+tweet_369292,merendahlah seperlunya tapi riya itu wajib hahahahaemangat dokday menkes 2019 target berikutny,neutral,positive,0.7302913784615281,positive,0.7956659373847635,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_289849,kita hidup hanya sementara kenapa perlu bazirkan masa untuk melakukan kejahatan sedangkan kebaikan itu lebih indah,neutral,positive,0.5823193892792564,positive,0.5610103589244929,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_161991,baru saja saya membeli saham pt xl axiata tbk untuk menambah portofolio saham saya di kompetisi yns 2018 pt xl,neutral,negative,0.7376290668916627,negative,0.846761474978575,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_230122,ngak salah istilah gendruwo jkw mengunakan istilah yang tepat,neutral,negative,0.8331955694701086,negative,0.8285991326527384,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_248347,hallo samyang mampir sini yuk besok kita open book loh,neutral,neutral,0.4617524364625065,neutral,0.5469052290768802,True,True,True,neutral,Correct
+tweet_174134,tukar partner macam tukar baju lepastu buat statement i date to marry haha palebutooh,positive,neutral,0.4456583211297695,neutral,0.5228819603773459,False,False,False,neutral,Polar False Neutral (Under-triggering)
+tweet_056072,banget banget weh wkwk apa lagi yang pas dizoom dirimu sendiri uwu banget parah,neutral,positive,0.6747643247103486,positive,0.6969586892882756,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_029900,mengulang2 video ini sama saja mengulang2 rasa kagum saya kepada pak yang sudah bersinar sejak dulu,neutral,negative,0.6404698044127514,positive,0.49551012643501785,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_393355,pantesan mimpi gue indah tadi malam,neutral,positive,0.8265095520712898,positive,0.7792038660275357,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_045824,eary cepu tapi,neutral,neutral,0.4152322462017869,positive,0.38011025564689366,True,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_209983,per satuan indonesia,neutral,neutral,0.6837921884454381,neutral,0.7903299279927789,True,True,True,neutral,Correct
+tweet_061460,panduan tips pergi liburan ke ende,positive,positive,0.509166370840078,positive,0.4856059857305138,True,True,True,positive,Correct
+tweet_247699,besok kalau pulang lu nongkrong di toilet saja,neutral,neutral,0.3597473868364504,positive,0.4649087346976071,True,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_353294,para d sayang,neutral,positive,0.9179336868694973,positive,0.9151851861074525,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_125496,ok program yang kitorng join tu mula pagi tau so x tau lah solat subuh kat masjid tu mcm mana yang kami dapat tau wak,neutral,negative,0.5412461252143071,negative,0.5751352600343036,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_006800,kamuu tipe orang yangusah moveon apaa tidak tergantung cowoo nya kalau nyaktiin berapaa harii ajaa udahh lup,neutral,negative,0.41440918908653834,negative,0.5886188928379895,False,False,False,negative,Negation / Ambiguity Error
+tweet_030961,karena ku dapat ticket ly tour dig ku mau tidak pulsa 10k buat 1 orang saja ya all operator rules di rep,neutral,negative,0.5344700016230892,negative,0.5628436841679256,False,False,False,negative,Negation / Ambiguity Error
+tweet_381186,akunya bingung apa korelasi pake telkomsel dan suka hal yang berbau korea itu apa,positive,positive,0.4854347770308995,positive,0.5328759197138184,True,True,True,positive,Correct
+tweet_021442,ada jambang misai tapi takde rambut boleh try tak,neutral,neutral,0.4395050715615125,negative,0.5496170769288021,True,False,False,negative,Negation / Ambiguity Error
+tweet_350170,mfal gilaakk coba nana ikutan makin dabest dah,neutral,positive,0.47968659364574534,negative,0.5416687889556926,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_002260,open follbackyarat follow westhingy rt tweet ini reply done aku tunggu sampai jam 0000,neutral,neutral,0.5606372719700174,neutral,0.55352286365041,True,True,True,neutral,Correct
+tweet_186306,jumlah tersebut sudah berkurang sebanyak 200 000 karena tanggal 2 desember lalu rumah warga prasejahtera di bogor sudah diberi,neutral,positive,0.5883140376802407,positive,0.574333760458737,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_158429,cantik gilaa spital ni dah macam hotel ni dah rawat buah pinggang boleh terus jual buah pinggang alang2,neutral,negative,0.48038363496252817,negative,0.5436526538568404,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_335498,baik miss insyaallah ready untuk dipos,neutral,positive,0.546407634562185,positive,0.7306574000720824,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_261147,yung iniencourage mo sarili mo kasi ayaw munang marinig ang pagi encourage ng ibang tao kasi natuto ka na yung mga,neutral,neutral,0.7738169833031212,neutral,0.8298721413219917,True,True,True,neutral,Correct
+tweet_090753,jualtiker kulkas 2 pintu ornamen lingkaran,neutral,neutral,0.5916397008686473,neutral,0.5966643448846035,True,True,True,neutral,Correct
+tweet_072105,ternyata kita reunian disini haha,positive,positive,0.5348703361275805,neutral,0.6287374471278905,True,False,False,neutral,Polar False Neutral (Under-triggering)
+tweet_157008,alhamdulillah menari di atas udara merangkak di atas daratan,neutral,positive,0.49625721200416084,positive,0.6925516905496371,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_161500,perbedaan pilihan politik itu wajar yang penting tidak saling memaksakan kehendaknya kpd orang lain,neutral,negative,0.6774005547989205,negative,0.8667121315796901,False,False,False,negative,Negation / Ambiguity Error
+tweet_220266,harga sebuah rindu tidak akan kau temui melainkan pada sebuah perpisahan dan dengan kerinduan itu akan membuatkan,positive,positive,0.5286269607789221,negative,0.5470597891476475,True,False,False,negative,Negation Misinterpretation
+tweet_229854,baik bgtt,neutral,positive,0.9461635365495082,positive,0.9972268604041213,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_379434,saya suka video tgb baru kali ini ada kepala kampung sambutan membahas tentang moral,positive,negative,0.7002439245075315,negative,0.7989981257970086,False,False,False,negative,Polar Inversion
+tweet_342908,aku lagi jualan kol yang jadi tidak ada kabar kekamu maap nanti cincin kawinnya pake kol saja yang aku rang,neutral,negative,0.47906047483950953,negative,0.598551790836175,False,False,False,negative,Negation / Ambiguity Error
+tweet_099127,memberi pandangan dalam debate global trade is broken di forum yang dianjurkan di jakarta atas jemputan asia pacific c,neutral,neutral,0.5836653319517352,neutral,0.7009077002406321,True,True,True,neutral,Correct
+tweet_071771,tak sabarnya nak pergi zoo,neutral,neutral,0.48101685211191464,negative,0.6035714975825922,True,False,False,negative,Negation / Ambiguity Error
+tweet_046840,setelah kuresapi lagi bau body mist teranyarku ini ternyata emang baunya mirip banget dengan hand shop di wc kantor,neutral,negative,0.4594112543590531,positive,0.5391084254307353,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_448450,sampai sekarang takda kerja,neutral,positive,0.5263643179709804,positive,0.6327789097039945,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_341512,kaos abu2 polos bisa jadi bagus gt ya kalau u yang make,neutral,positive,0.9742946355195973,positive,0.9965653026267196,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_273051,tidak tahu salah satu ibu2 peotes karena pakaian mereka padahal masih rok mini ada petisinya juga,neutral,negative,0.9450507018547105,negative,0.9900200660459327,False,False,False,negative,Negation / Ambiguity Error
+tweet_430027,aamiin elamat pagi juga bumil cantiks sehat dan bahagia selalu ya,positive,positive,0.9691334488354001,positive,0.9884703760349006,True,True,True,positive,Correct
+tweet_181747,bantuan sambungan listrik gratis ini akan disebar ke daerah lain yang warganya msh tinggal di rumah pra sejahtera b,neutral,positive,0.6356537416058179,positive,0.6289492291647293,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_022912,ehe,neutral,neutral,0.6735397586346132,neutral,0.6985049219878753,True,True,True,neutral,Correct
+tweet_254923,malam tadi di majlis perasmian dan sambutan maulidur rasulurau al muqarrabin di kg mambau disempurnakan ytm dato klana pe,neutral,negative,0.41437592087660685,negative,0.4669188009424935,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_333901,so this is whyergio ramos dislocated his shoulder,neutral,neutral,0.9041127501184616,neutral,0.9708692888936437,True,True,True,neutral,Correct
+tweet_029038,mbahanmiarja sedang santai sore kemarin di pematang ladangnya membersihkan ladang sebelum ditanami semangka,neutral,negative,0.3822987430574215,negative,0.4241992573566777,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_350877,avil tidak sayang,neutral,negative,0.5507247613562519,negative,0.8698301711842125,False,False,False,negative,Negation / Ambiguity Error
+tweet_132740,xx girls videos amateurex mobil porno sex xx xx fucking sexex hardcore xx hardcore g xx doggie fucking vid,negative,negative,0.7292599337553423,negative,0.7368757728215025,True,True,True,negative,Correct
+tweet_332239,baik kak inge akan kami bantu laporkan namun infokan no internet telp beserta no hp aktif via dm trims lian,positive,positive,0.8804120699079445,positive,0.9430929923567123,True,True,True,positive,Correct
+tweet_254357,atuh tidak minta mah tidak dikasi dong wang,neutral,negative,0.6002523176940883,negative,0.8041351193562176,False,False,False,negative,Negation / Ambiguity Error
+tweet_033119,yang paling penting sebenernya pikiran kita sendiri apa yang kita pikir terhadap diri kita sendiri gimana caranya biar kita,neutral,negative,0.6194214588289534,negative,0.9287023709368138,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_179237,pertumbuhan ekonomi malaysia tahun depan dijangka merosot icaew,neutral,neutral,0.7043637548117448,neutral,0.7687546421560221,True,True,True,neutral,Correct
+tweet_232919,belom nyoba pun sudah tampan gimana dong,neutral,neutral,0.583852528626016,neutral,0.536775160083429,True,True,True,neutral,Correct
+tweet_134377,8 11 umi beraktivitas mulai dari jam 02 00 dini hari ebelum berangkat ke pasar jam 03 30 wib,neutral,negative,0.6233831408098742,negative,0.6236903950251259,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_173371,tidak ada uang esmeralda,neutral,neutral,0.5995590742701147,negative,0.4904808464819683,True,False,False,negative,Negation / Ambiguity Error
+tweet_186463,enak banget dah sepanjang hari goyang teruss,neutral,positive,0.5376848864525198,positive,0.7425954292252201,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_055283,sayang dirimu dimana,neutral,neutral,0.42613831847857947,negative,0.5596749300131177,True,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_075456,ketikaesuatu yang kamuayang pergi tak perlu kauesali jika kau percaya tuhan akan memberiesuatu yang lebih,neutral,positive,0.6291793308691388,positive,0.6318323934472911,False,False,False,positive,Negation / Ambiguity Error
+tweet_151407,jika dekat maka mudahkanlah jika sedikit maka banyakkanlah jika banyak maka berkatilah agar kami dapat menolong anak anak,neutral,negative,0.64103742830319,negative,0.6069172899786494,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_281697,keren siapa pengarah gayanya nih komposisi menarik expresi natural presiden pula yang makin,positive,positive,0.5893764281019944,positive,0.6887284587453526,True,True,True,positive,Correct
+tweet_242945,sendu sikit malam ni,neutral,negative,0.48551854293960167,negative,0.6629431638087137,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_304185,tolonglash,neutral,neutral,0.6074883744699706,neutral,0.4801708352904427,True,True,True,neutral,Correct
+tweet_432873,kadang cewek bisa dibikin nangis bahagia tidak boleh ya oh oke,neutral,positive,0.697641589974382,positive,0.7442967269093448,False,False,False,positive,Negation / Ambiguity Error
+tweet_014240,nice idea,neutral,neutral,0.7274929350021675,neutral,0.7308010848393115,True,True,True,neutral,Correct
+tweet_070133,ceritanya minta orang samain tiket kaya diriku yang pake pass tapi kok pas diliat harga aslinya murahan garuda diba,neutral,positive,0.8734685337561348,positive,0.8869149760337735,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_424806,parang matatanggap ko pag kayo yung mag papabayad ng 20k sa vip area kasi sobrang sulit naman,neutral,neutral,0.7806650835214994,neutral,0.8031826170189975,True,True,True,neutral,Correct
+tweet_132461,xx porn with girls xx sunny leone videos danish porn porno francais xx bitches videos xx porn mobil porno sex x,negative,negative,0.8800480897157549,negative,0.8697558089439815,True,True,True,negative,Correct
+tweet_435594,yang minta itu siapa rakyat dengan sukarela memberikan karena mereka punya harapan besar untuk,positive,positive,0.8783172856556085,positive,0.8932766534625723,True,True,True,positive,Correct
+tweet_382678,selagi ada bf gf jaga lelok sampai dia halal untuk korang jangan nak cari lain pulak bila dah susah senang sama kalau ada,positive,negative,0.8821308444950692,negative,0.9505409486254718,False,False,False,negative,Negation Misinterpretation
+tweet_147893,assalamu alaikum alam jumaat hi kl dj qiss manjalara87 akan menemani anda menerusi,neutral,neutral,0.472984879177902,neutral,0.48871528127478686,True,True,True,neutral,Correct
+tweet_125057,main barang ini,neutral,neutral,0.402466126090051,positive,0.4473655704090275,True,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_085405,jakarta s ciliwung river is still shallow we re about to enter rainy season with caution considering there,neutral,neutral,0.855754195410179,neutral,0.9536132870725608,True,True,True,neutral,Correct
+tweet_099682,mga jawa,neutral,neutral,0.7555265383194613,neutral,0.8236837827486903,True,True,True,neutral,Correct
+tweet_134032,mengena banget,neutral,positive,0.9079344675420296,positive,0.9973290916717015,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_326867,pembetulan lelaki dan perempuan semua sama je,neutral,positive,0.5968151510868437,positive,0.8713593364839252,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_238279,bagus dong tandanya kamu berguna ul,neutral,positive,0.7676809540407098,positive,0.8482143958776875,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_342880,cinta mampu melunakkan besi menghancurkan batu membangkitkan yang mati dan meniupkan kehidupan padanya serta memb,positive,positive,0.7192678962090568,positive,0.7609093514338763,True,True,True,positive,Correct
+tweet_016288,ya ampuunn kenapa kita tidak prnh ketemu sih,neutral,neutral,0.36900317188778253,neutral,0.48289705518344034,True,True,True,neutral,Correct
+tweet_056361,bisnis sambilan sambil maen twitter knp tidak hayoo kamu cek disini keren banget pastinya,positive,negative,0.4837601476214732,positive,0.5123244634116432,False,True,True,positive,Correct
+tweet_254073,apa yang membuat anda mau bangun tiap pagi naik gojek nembus macet ke tempat beraktivitas rangkaian hidup adalah pe,neutral,positive,0.44887473787668813,negative,0.49114007536932364,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_321149,masa orang tengah celebrate lari terus ke kereta,neutral,positive,0.44759843784701164,positive,0.40034850703544944,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_072163,tapi dari dulu saya memang menganggap kamu sebagai teman,neutral,positive,0.4829015480101416,negative,0.5916340031455691,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_384934,mu kira lipbalm yang bagus yang lagi kalian pakai apa yaa bibir aku kering mulu soalnya,neutral,positive,0.7884993741663677,positive,0.9120262187049328,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_444858,ayo joinekarang tanya2 langsung chat line saja,positive,positive,0.6185387181413854,positive,0.7235724554432147,True,True,True,positive,Correct
+tweet_136721,mobil hamburger,neutral,neutral,0.800048164365217,neutral,0.8450326945695885,True,True,True,neutral,Correct
+tweet_174612,liat apa kamuiap tidak ada mata dalam hati wkwk,positive,positive,0.7237447964339748,positive,0.8590873943048274,True,True,True,positive,Correct
+tweet_376672,hehe suka dong w yeeyy ciuumm gt 3 lt,positive,positive,0.6031120634747951,positive,0.6993286662471454,True,True,True,positive,Correct
+tweet_348577,dj gadis kaos kuning dawny uka akimilaku bassbeats 2019 mantul bos melalui,neutral,positive,0.5177129036599679,positive,0.5060789454696698,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_117868,wkwk eh lu gk ngenalin cowo lu ke nuna apa,positive,positive,0.5157234839336763,positive,0.6749376833022095,True,True,True,positive,Correct
+tweet_100260,to indo pescar de varinha n o sei se vou ter paci ncia pra isso meu neg cio no arp o,neutral,neutral,0.8623840771058574,neutral,0.9960342986758209,True,True,True,neutral,Correct
+tweet_380569,manusia yang paling tidak beradab adalah manusia yang suka menilik hak privasi orang lain kena ingat nabi sabda barangs,positive,negative,0.651906402109232,negative,0.8738815180892104,False,False,False,negative,Negation Misinterpretation
+tweet_080732,saya tunggu cabang baru di purwokerto sampai tahun 2019 tolong anak presiden dengarkan harapan,neutral,positive,0.6199719915484945,positive,0.5102533886781631,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_120322,berubah lah jadi pribadi yang baik yang menguntungkan diri sendiri dan orang lain jangan besarkan egomu,neutral,negative,0.8204300702923631,negative,0.9757712380690947,False,False,False,negative,Negation / Ambiguity Error
+tweet_325957,kita masih bisa mengubah masa depan jika kita semangat doraemon,positive,positive,0.6695580181588758,positive,0.729570645081929,True,True,True,positive,Correct
+tweet_136986,haloo rek pendaftarantiki basketball league dan dance competitionbl 2018 sudah dibuka nih buat sekolah kam,positive,positive,0.4442018220677607,positive,0.5378734749867108,True,True,True,positive,Correct
+tweet_011656,s zc kamu projelerinde ihale alan nafia n aat da konkordato istedi zerinden,neutral,neutral,0.7617712391970247,neutral,0.8268724926253086,True,True,True,neutral,Correct
+tweet_165214,cheol macam telur potong rambut camtu,neutral,neutral,0.7155354391938068,neutral,0.7366215124668963,True,True,True,neutral,Correct
+tweet_065041,ada tu ha belakang tiang pergi la tengok ke rumah takde tiang,neutral,positive,0.618049308339999,positive,0.677774294482553,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_442879,kaya anak kecil dong nanti kalau ngompol,neutral,negative,0.9080918246510291,negative,0.9517135104822846,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_174390,sebenernya cashless society ini bisa menghemat uang karena tidak selalu pegang uang cash masalahnya warkop belum ada yang bisa cashless,neutral,negative,0.49114852379286283,negative,0.5754537095728524,False,False,False,negative,Negation / Ambiguity Error
+tweet_040998,kapan lagi sih perangnya,neutral,neutral,0.6494667474878034,neutral,0.5977119965910852,True,True,True,neutral,Correct
+tweet_378910,selama temenmu tidak ikutan its okay temenku jg army ada kok tapi dia justru jg tidak suka sama kelakuan fandomnya,negative,negative,0.5450763630458739,negative,0.5007887558551081,True,True,True,negative,Correct
+tweet_148984,5 7,neutral,neutral,0.7802558695120548,neutral,0.8111850052421978,True,True,True,neutral,Correct
+tweet_104351,moyster siap menjamuri kota bandung buruan gabung menjadi agen reseller kami raih sukses di bisnis ini dengan menjadi mitra pertama kami,neutral,positive,0.7342719967055962,positive,0.7765899199183631,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_325587,menyia nyiakan waktu kecil,neutral,negative,0.560350967741115,negative,0.4770573158260602,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_298574,selamat siang bpk ibu yusuf mohon maaf sebelumnya kami ada peningkatan kualitas jaringan namun saat,positive,positive,0.7731316509621431,positive,0.8989482254434842,True,True,True,positive,Correct
+tweet_260024,i disagree,neutral,neutral,0.7971504997941933,neutral,0.8828579606731819,True,True,True,neutral,Correct
+tweet_215425,yang khianat jadi cebong semua,neutral,positive,0.7183941811151134,positive,0.7836953500917182,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_399890,jarak selalu menjadi alasan untuk merindu mimpi selalu jadi harapan untuk bertemu doa selalu,positive,positive,0.8550924450647748,positive,0.8843083481387267,True,True,True,positive,Correct
+tweet_021768,sejak banser dan ansor di pimpin dan jendral lapangannya hancur nama baik nu keluarga,positive,positive,0.6389708344614532,positive,0.7611041004078062,True,True,True,positive,Correct
+tweet_101577,bandung nu aing lah pokoknya mah,neutral,neutral,0.5560749477491971,neutral,0.5399415969486527,True,True,True,neutral,Correct
+tweet_078039,manusia membuat istilah2 dari suatu peristiwa yang mereka alami agar lebih efisien dan memudahkan dalam berkomunika,neutral,positive,0.6700736661741947,positive,0.8178250687683456,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_199653,nekad untuk tidak mkan nasi bulan ni hancur bb bos bawa mkan nasi goreng kambing,neutral,negative,0.46757320469125274,negative,0.6016579812140361,False,False,False,negative,Negation / Ambiguity Error
+tweet_260465,cabe kalau sudah malam minggu gerimis dikit saja sudah kelojotan kayak ikan lagi di darat,neutral,negative,0.6392719698110392,negative,0.6380290780128401,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_025688,kami sampaikan fakta,neutral,neutral,0.43127964730071194,neutral,0.4036109891059449,True,True,True,neutral,Correct
+tweet_005219,127 hours 2010 based on true story aron mendaki di sebuah canyon terpencil masa nak lompat ke seberang aron terjatuh,negative,negative,0.48025424234296593,negative,0.5871191937229123,True,True,True,negative,Correct
+tweet_078229,masih kerja dekat seberang ke abang long jb,neutral,positive,0.6554763361233037,positive,0.8093428566297585,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_396721,dia jadi sedih kan,negative,negative,0.5776438563814259,negative,0.6603457909329924,True,True,True,negative,Correct
+tweet_029183,gw pengen kapelan tapi tidak ada yang mau gw deketin keknya njir,neutral,positive,0.5215468024241082,positive,0.5315130313799162,False,False,False,positive,Negation / Ambiguity Error
+tweet_235187,hmm katanya kegiatan kemaren itu benaran berhimpun dan beribadah tanpa muatan politik tapi ya ketidakpercayaan ter,neutral,positive,0.5806424118859413,positive,0.727495169971052,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_375609,saya suka video animasi letusan krakatau 1883,neutral,negative,0.9003191352886187,negative,0.9162738983302626,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_355442,people come and people go sayang banget gue ama exo,neutral,positive,0.7786035236199957,positive,0.8715876907071235,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_227598,jangan ngehina noon itu bagus,neutral,positive,0.525857655941988,positive,0.4719291319871229,False,False,False,positive,Negation / Ambiguity Error
+tweet_367970,saya suka video this dropper map is trolling us elmo barney dropper more,neutral,negative,0.6785205154812199,negative,0.7179778986246124,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_245381,dari tadi main sama kembaran jihoon hyung mulu habis gemes kelincinya lucuu kamu tuh lebih lucu sini aku foto,neutral,positive,0.8263004451780954,positive,0.9532999682577672,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_417489,ingat bahagia itu bukan pilihan tapi keharusan bapake 2018,neutral,positive,0.8323000708176862,positive,0.8480078236580597,False,False,False,positive,Negation / Ambiguity Error
+tweet_015180,3x in a row lakas ah just keep on voting guyspara mamaintain ang pagiging no 1 asam,neutral,neutral,0.6646533637157256,neutral,0.7875740649516715,True,True,True,neutral,Correct
+tweet_101270,to indo pq to gordo msm,neutral,neutral,0.6943620597748744,neutral,0.9908486036249948,True,True,True,neutral,Correct
+tweet_088581,available booking female escort bandung in exclude room dp cod 20th 163cm 46kg bra 36 kulit putih contact by whatsa,neutral,neutral,0.8116784337684478,neutral,0.845757923538358,True,True,True,neutral,Correct
+tweet_369911,mau di bantu buat ngilangin tuh akun tidak,neutral,negative,0.5040400783756482,negative,0.5952247720376588,False,False,False,negative,Negation / Ambiguity Error
+tweet_342243,kita kita kita bubar,neutral,neutral,0.8113376815641717,neutral,0.8877241807299759,True,True,True,neutral,Correct
+tweet_424879,pernah jugak mimpi ada orang bagi baby baby boy kembar dsbbkan aku mmg suka baby aku bawak bali,positive,positive,0.5207850680567582,positive,0.47551093924030907,True,True,True,positive,Correct
+tweet_197231,feeding zark 181204 wolf zark pemberian makan bulan desember plot on,neutral,neutral,0.5834395830809551,neutral,0.5505019394660081,True,True,True,neutral,Correct
+tweet_176449,xde rezeki berkenan dh 1oven besar nie ni hrga mampu milik tapi ruang nk letak pulak xdak xplh tggu umh siap spenuhnya,neutral,negative,0.5189924928073023,negative,0.5775162972776682,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_097990,peduli kesehatan mata di kab bekasi jawa barat,neutral,negative,0.44585970998191354,negative,0.532747974602254,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_274052,coba polling dikit ah apakahetuju usulan dpr bhw direksi dan komisaris bumn dipilih oleh dpr atau tetap oleh pemerintah dan,neutral,neutral,0.36498773661658934,negative,0.3664998392362405,True,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_433881,mimpi beli kopi sbux isinya teh tarik jelly,positive,positive,0.5736196129548133,positive,0.5519388552857191,True,True,True,positive,Correct
+tweet_185925,balik kerja sampai rumah 650 lepastu mandi siapsiap pkl 715 kuar rumah gi kuala,neutral,positive,0.8746811238371971,positive,0.9160569792724595,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_001013,aku ganteng,neutral,neutral,0.4187274804057991,positive,0.4537548702278852,True,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_060701,santai saja teman emang gitu tidak sekali dua kali,neutral,negative,0.6431390152443026,negative,0.8150610833643267,False,False,False,negative,Negation / Ambiguity Error
+tweet_205337,banyak kes yang mula mula kata free tetiba jadi tak free dicaj di hujung bulan aok jaga jaga kalau tak f,neutral,negative,0.6901128064841924,negative,0.7093617159598591,False,False,False,negative,Negation / Ambiguity Error
+tweet_392185,aq baik aq nda jahad,neutral,positive,0.564601260021288,positive,0.7462094103583385,False,False,False,positive,Negation / Ambiguity Error
+tweet_360401,aku berubah ada sebab bukan suka suka,positive,positive,0.6128618914995702,positive,0.6121617078422136,True,True,True,positive,Correct
+tweet_378763,ini semua salah malaysian undi ph jadi kerajaan ma,neutral,negative,0.7586730910730536,negative,0.7957602756600057,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_263472,my arm was sore i couldn t do the other one,neutral,neutral,0.9428040530489205,neutral,0.967187855346438,True,True,True,neutral,Correct
+tweet_278756,aamiin islam tebarkan rahmat wujudkan islam rahmatan lil alamiin,neutral,positive,0.4993102205071399,positive,0.4842119177108565,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_389545,biasanya kan u sama dream perform di awal2 ini sengaja banget 127 di awalin biar johnny tidak ikut special stage bareng exo edih akutu,neutral,positive,0.6277005262589899,positive,0.8048382890759073,False,False,False,positive,Negation / Ambiguity Error
+tweet_102705,to indo a praia c as meninass,neutral,neutral,0.5874301967190114,neutral,0.9968877972598795,True,True,True,neutral,Correct
+tweet_289907,apa yang di pikirkan saat nii,neutral,neutral,0.4303268063873115,neutral,0.43121631214663053,True,True,True,neutral,Correct
+tweet_291510,ya allah apakah aku harus membeli cincin berlian dan meminang dirinya ketika masuk fansign,neutral,positive,0.6476733465777387,positive,0.851397756888341,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_197372,iya om mantan gw di tahun pertama pacaran dah ketauan selingkuh gw maapin kita pacaran 5 tahun dia g,neutral,positive,0.5083648280697031,positive,0.4943929830478912,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_139467,jom berangkat ke maha at printhop center,neutral,negative,0.5375670595805048,negative,0.4570673305571744,False,False,False,negative,Neutral False Polar (Over-triggering)
+tweet_137349,sekolah tadi ada cowo joget blacpink sama mumuland w gk pernah ngeliat hal cringe se cringe ini,neutral,positive,0.5795343767102024,positive,0.8361775339417363,False,False,False,positive,Neutral False Polar (Over-triggering)
+tweet_365263,nvm u earn girl respect,neutral,neutral,0.864283859125952,neutral,0.8556298292212023,True,True,True,neutral,Correct
+tweet_013669,mereka mengacaukan proses penanganan bencana mereka mengganggu pembangunan mereka sering bikin gaduh suasana mereka jahapp,neutral,positive,0.5073525059675513,positive,0.5254186147474647,False,False,False,positive,Neutral False Polar (Over-triggering)

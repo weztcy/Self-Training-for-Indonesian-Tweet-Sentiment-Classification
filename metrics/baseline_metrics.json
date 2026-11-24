@@ -1,0 +1,55 @@
+{
+  "model_name": "Seed_Only_Logistic_Regression",
+  "training_samples": 3000,
+  "validation_samples": 500,
+  "accuracy": 0.404,
+  "macro_f1": 0.37611205405849873,
+  "weighted_f1": 0.42238313445529757,
+  "per_class": {
+    "positive": {
+      "precision": 0.37272727272727274,
+      "recall": 0.803921568627451,
+      "f1_score": 0.5093167701863354,
+      "support": 102
+    },
+    "negative": {
+      "precision": 0.11904761904761904,
+      "recall": 0.7142857142857143,
+      "f1_score": 0.20408163265306123,
+      "support": 28
+    },
+    "neutral": {
+      "precision": 0.8928571428571429,
+      "recall": 0.2702702702702703,
+      "f1_score": 0.4149377593360996,
+      "support": 370
+    }
+  },
+  "confusion_matrix_labels": [
+    "positive",
+    "negative",
+    "neutral"
+  ],
+  "confusion_matrix": [
+    [
+      82,
+      12,
+      8
+    ],
+    [
+      4,
+      20,
+      4
+    ],
+    [
+      134,
+      136,
+      100
+    ]
+  ],
+  "dummy_majority_baseline": {
+    "accuracy": 0.056,
+    "macro_f1": 0.03535353535353535,
+    "weighted_f1": 0.00593939393939394
+  }
+}

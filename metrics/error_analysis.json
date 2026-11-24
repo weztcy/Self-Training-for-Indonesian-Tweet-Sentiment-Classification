@@ -1,0 +1,129 @@
+{
+  "total_test_samples": 500,
+  "total_errors": 310,
+  "error_rate": 0.62,
+  "error_distribution": {
+    "Neutral False Polar (Over-triggering)": 199,
+    "Negation / Ambiguity Error": 87,
+    "Negation Misinterpretation": 11,
+    "Polar False Neutral (Under-triggering)": 9,
+    "Polar Inversion": 4
+  },
+  "category_examples": {
+    "Neutral False Polar (Over-triggering)": [
+      {
+        "record_id": "tweet_081722",
+        "text": "buat kita jadi lebih matang dan boleh berdikari dengan baik",
+        "true_label": "neutral",
+        "pred_label": "positive",
+        "confidence": 0.8722
+      },
+      {
+        "record_id": "tweet_200294",
+        "text": "well hell i sexual creatures kita satu rumah sekarang so let s get closer gimana kalau kita mulai dengan mendengarka",
+        "true_label": "neutral",
+        "pred_label": "positive",
+        "confidence": 0.4406
+      },
+      {
+        "record_id": "tweet_157180",
+        "text": "haih pasal tetek pun nk gaduh jagalah tetek masing masing lol wth yall",
+        "true_label": "neutral",
+        "pred_label": "negative",
+        "confidence": 0.6054
+      }
+    ],
+    "Negation / Ambiguity Error": [
+      {
+        "record_id": "tweet_049735",
+        "text": "bible bilang begini bahkan sehelai rambutmu pun tidak akan jatuh tanpa seizin bapa mu di sorga jadi kejatuhan",
+        "true_label": "neutral",
+        "pred_label": "negative",
+        "confidence": 0.76
+      },
+      {
+        "record_id": "tweet_442789",
+        "text": "tidak cuma artis muda loh nanti malem bakal ada si dul dan atun nih alias mas rano karno sama kauti karno yang bakal",
+        "true_label": "neutral",
+        "pred_label": "negative",
+        "confidence": 0.6746
+      },
+      {
+        "record_id": "tweet_311119",
+        "text": "felicitas t dari gerindra supaya jangan di tanggal 17 desember karena fraksi kami mem",
+        "true_label": "neutral",
+        "pred_label": "negative",
+        "confidence": 0.8319
+      }
+    ],
+    "Negation Misinterpretation": [
+      {
+        "record_id": "tweet_357411",
+        "text": "nilai cinta yang tulus tak kan kering di musim panas tak kan luluh di musim hujuan tak kan beku di musim dingin dy",
+        "true_label": "positive",
+        "pred_label": "negative",
+        "confidence": 0.5638
+      },
+      {
+        "record_id": "tweet_128545",
+        "text": "whatsapp bukan tempat ideal untuk orang orang yang suka online tapi malas untuk balas chat",
+        "true_label": "positive",
+        "pred_label": "negative",
+        "confidence": 0.7344
+      },
+      {
+        "record_id": "tweet_120411",
+        "text": "i am the one yang tak suka bila orang suka remind jangan lambat berkali kali tapi diri sendiri yang lambat pada ha",
+        "true_label": "positive",
+        "pred_label": "negative",
+        "confidence": 0.9697
+      }
+    ],
+    "Polar False Neutral (Under-triggering)": [
+      {
+        "record_id": "tweet_050835",
+        "text": "ribkarikeman bangga dg wadahkom silahkan pergi dibumiku terlarang",
+        "true_label": "positive",
+        "pred_label": "neutral",
+        "confidence": 0.4913
+      },
+      {
+        "record_id": "tweet_260596",
+        "text": "paling suka dengan hujan disepertiga malam gini",
+        "true_label": "positive",
+        "pred_label": "neutral",
+        "confidence": 0.4381
+      },
+      {
+        "record_id": "tweet_372163",
+        "text": "lit try harder i guess joe flizzoe namakan show dia 16 baris tu bukan suka suka your flow have to have that 16 bars f",
+        "true_label": "positive",
+        "pred_label": "neutral",
+        "confidence": 0.4909
+      }
+    ],
+    "Polar Inversion": [
+      {
+        "record_id": "tweet_382167",
+        "text": "saya suka video key log ep7 baby you are my luckey star",
+        "true_label": "positive",
+        "pred_label": "negative",
+        "confidence": 0.5859
+      },
+      {
+        "record_id": "tweet_131336",
+        "text": "dari zaman sekolah sampai lah sekarang aku gunting rambut ngan brader nie bila dapat tahu kes nie htt",
+        "true_label": "positive",
+        "pred_label": "negative",
+        "confidence": 0.4047
+      },
+      {
+        "record_id": "tweet_339682",
+        "text": "ajar diorang iron cepat sekali tkdelah meroyan aku tunggu dorg siap iron",
+        "true_label": "positive",
+        "pred_label": "negative",
+        "confidence": 0.3752
+      }
+    ]
+  }
+}
